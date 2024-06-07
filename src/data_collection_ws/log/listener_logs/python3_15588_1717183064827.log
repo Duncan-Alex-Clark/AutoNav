@@ -1,0 +1,12 @@
+[DEBUG] [1717183064.927761920] [minimal_subscriber]: Listener object has been instantiated after 0.08719158172607422 seconds
+[INFO] [1717183067.045831336] [minimal_subscriber]: listener_callback() executing
+[INFO] [1717183067.047217029] [minimal_subscriber]: Auto status: False
+[INFO] [1717183068.042316998] [minimal_subscriber]: listener_callback() executing
+[INFO] [1717183068.042728507] [minimal_subscriber]: Auto status: False
+[INFO] [1717183069.041997975] [minimal_subscriber]: listener_callback() executing
+[INFO] [1717183069.042313888] [minimal_subscriber]: Auto status: False
+[INFO] [1717183069.042607110] [minimal_subscriber]: Data capture is active
+[INFO] [1717183069.042894405] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1717183069.043187682] [minimal_subscriber]: -----Data not recording-----
+[DEBUG] [1717183069.043474927] [minimal_subscriber]: Steering value: -0.0
+[DEBUG] [1717183069.043758432] [minimal_subscriber]: Throttle value: 1.0

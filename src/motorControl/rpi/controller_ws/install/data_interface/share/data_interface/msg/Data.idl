@@ -1,0 +1,26 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from data_interface/msg/Data.msg
+// generated code does not contain a copyright notice
+
+#include "sensor_msgs/msg/Image.idl"
+#include "sensor_msgs/msg/Joy.idl"
+
+module data_interface {
+  module msg {
+    struct Data {
+      sensor_msgs::msg::Joy gamepad;
+
+      sensor_msgs::msg::Image cam0;
+
+      sensor_msgs::msg::Image cam1;
+
+      boolean data_active;
+
+      boolean auto_active;
+
+      float steering;
+
+      float throttle;
+    };
+  };
+};

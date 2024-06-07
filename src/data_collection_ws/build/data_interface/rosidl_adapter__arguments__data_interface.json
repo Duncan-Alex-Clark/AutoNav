@@ -1,0 +1,6 @@
+{
+  "package_name": "data_interface",
+  "non_idl_tuples": [
+    "/home/igvc/IGVCDev/src/data_collection_ws/src/data_interface:msg/Data.msg"
+  ]
+}

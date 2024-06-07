@@ -1,0 +1,8 @@
+setup.py
+data_interface/__init__.py
+data_interface.egg-info/PKG-INFO
+data_interface.egg-info/SOURCES.txt
+data_interface.egg-info/dependency_links.txt
+data_interface.egg-info/top_level.txt
+data_interface/msg/__init__.py
+data_interface/msg/_data.py

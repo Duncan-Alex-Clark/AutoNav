@@ -1,0 +1,1419 @@
+[DEBUG] [1711143945.368287598] [minimal_subscriber]: Listener object has been instantiated after 1.5620930194854736 seconds
+[INFO] [1711143964.729733399] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143964.735038970] [minimal_subscriber]: Auto status: False
+[INFO] [1711143964.892455271] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143964.901151384] [minimal_subscriber]: Auto status: False
+[INFO] [1711143965.127750535] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143965.136329266] [minimal_subscriber]: Auto status: False
+[INFO] [1711143965.307132662] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143965.310281501] [minimal_subscriber]: Auto status: False
+[INFO] [1711143965.541455531] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143965.546909005] [minimal_subscriber]: Auto status: False
+[INFO] [1711143965.733715116] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143965.740318367] [minimal_subscriber]: Auto status: False
+[INFO] [1711143965.914403083] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143965.920052810] [minimal_subscriber]: Auto status: False
+[INFO] [1711143966.100883670] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143966.109622503] [minimal_subscriber]: Auto status: False
+[INFO] [1711143966.296655808] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143966.309177180] [minimal_subscriber]: Auto status: False
+[INFO] [1711143966.502885737] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143966.508382811] [minimal_subscriber]: Auto status: False
+[INFO] [1711143966.699779272] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143966.708123440] [minimal_subscriber]: Auto status: False
+[INFO] [1711143966.904127292] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143966.926690238] [minimal_subscriber]: Auto status: False
+[INFO] [1711143967.106471531] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143967.124922274] [minimal_subscriber]: Auto status: False
+[INFO] [1711143967.301736192] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143967.308969933] [minimal_subscriber]: Auto status: False
+[INFO] [1711143967.502972364] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143967.514383339] [minimal_subscriber]: Auto status: False
+[INFO] [1711143967.699354572] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143967.702538111] [minimal_subscriber]: Auto status: False
+[INFO] [1711143967.920965866] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143967.929971404] [minimal_subscriber]: Auto status: False
+[INFO] [1711143968.130842491] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143968.134477396] [minimal_subscriber]: Auto status: False
+[INFO] [1711143968.349713773] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143968.354065699] [minimal_subscriber]: Auto status: False
+[INFO] [1711143968.509920017] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143968.513248038] [minimal_subscriber]: Auto status: False
+[INFO] [1711143968.722352610] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143968.725583920] [minimal_subscriber]: Auto status: False
+[INFO] [1711143968.929933529] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143968.933233000] [minimal_subscriber]: Auto status: False
+[INFO] [1711143969.123068768] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143969.133219683] [minimal_subscriber]: Auto status: False
+[INFO] [1711143969.307641604] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143969.313989152] [minimal_subscriber]: Auto status: False
+[INFO] [1711143969.576928269] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143969.594509628] [minimal_subscriber]: Auto status: False
+[INFO] [1711143969.712159110] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143969.737095832] [minimal_subscriber]: Auto status: False
+[INFO] [1711143969.914286806] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143969.957194053] [minimal_subscriber]: Auto status: False
+[INFO] [1711143970.145595789] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143970.178318600] [minimal_subscriber]: Auto status: False
+[INFO] [1711143970.334842237] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143970.369746862] [minimal_subscriber]: Auto status: False
+[INFO] [1711143970.511456592] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143970.515075258] [minimal_subscriber]: Auto status: False
+[INFO] [1711143970.701303510] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143970.721846125] [minimal_subscriber]: Auto status: False
+[INFO] [1711143970.929662797] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143970.933085880] [minimal_subscriber]: Auto status: False
+[INFO] [1711143971.155514387] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143971.160423082] [minimal_subscriber]: Auto status: False
+[INFO] [1711143971.319470058] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143971.323139304] [minimal_subscriber]: Auto status: False
+[INFO] [1711143971.503981734] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143971.507209273] [minimal_subscriber]: Auto status: False
+[INFO] [1711143971.695255993] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143971.712041120] [minimal_subscriber]: Auto status: False
+[INFO] [1711143971.935549384] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143971.953719302] [minimal_subscriber]: Auto status: False
+[INFO] [1711143972.138886218] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143972.167632088] [minimal_subscriber]: Auto status: False
+[INFO] [1711143972.340171861] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143972.351043977] [minimal_subscriber]: Auto status: False
+[INFO] [1711143972.517200902] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143972.521947885] [minimal_subscriber]: Auto status: False
+[INFO] [1711143972.716447304] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143972.730767133] [minimal_subscriber]: Auto status: False
+[INFO] [1711143972.965104662] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143972.967990177] [minimal_subscriber]: Auto status: False
+[INFO] [1711143973.143402173] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143973.156130558] [minimal_subscriber]: Auto status: False
+[INFO] [1711143973.336257787] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143973.339399925] [minimal_subscriber]: Auto status: False
+[INFO] [1711143973.501457877] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143973.504380602] [minimal_subscriber]: Auto status: False
+[INFO] [1711143973.730910312] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143973.764581607] [minimal_subscriber]: Auto status: False
+[INFO] [1711143973.934500870] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143973.938354889] [minimal_subscriber]: Auto status: False
+[INFO] [1711143974.135119432] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143974.148960304] [minimal_subscriber]: Auto status: False
+[INFO] [1711143974.310549499] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143974.314082603] [minimal_subscriber]: Auto status: False
+[INFO] [1711143974.512256789] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143974.516175159] [minimal_subscriber]: Auto status: False
+[INFO] [1711143974.694845185] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143974.709064733] [minimal_subscriber]: Auto status: False
+[INFO] [1711143974.931386168] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143974.934552797] [minimal_subscriber]: Auto status: False
+[INFO] [1711143975.099579854] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143975.122125749] [minimal_subscriber]: Auto status: False
+[INFO] [1711143975.322080192] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143975.327742719] [minimal_subscriber]: Auto status: False
+[INFO] [1711143975.546122503] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143975.558976710] [minimal_subscriber]: Auto status: False
+[INFO] [1711143975.728506947] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143975.746801827] [minimal_subscriber]: Auto status: False
+[INFO] [1711143975.941093623] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143975.949538302] [minimal_subscriber]: Auto status: False
+[INFO] [1711143976.121170891] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143976.130569845] [minimal_subscriber]: Auto status: False
+[INFO] [1711143976.339295292] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143976.345677680] [minimal_subscriber]: Auto status: False
+[INFO] [1711143976.520198102] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143976.526895875] [minimal_subscriber]: Auto status: False
+[INFO] [1711143976.735274247] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143976.744262724] [minimal_subscriber]: Auto status: False
+[INFO] [1711143976.915219973] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143976.923271426] [minimal_subscriber]: Auto status: False
+[INFO] [1711143977.097958761] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143977.104314979] [minimal_subscriber]: Auto status: False
+[INFO] [1711143977.322744814] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143977.328676835] [minimal_subscriber]: Auto status: False
+[INFO] [1711143977.518650785] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143977.527203826] [minimal_subscriber]: Auto status: False
+[INFO] [1711143977.730097453] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143977.735279353] [minimal_subscriber]: Auto status: False
+[INFO] [1711143977.900160018] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143977.904989862] [minimal_subscriber]: Auto status: False
+[INFO] [1711143978.119009500] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143978.135225718] [minimal_subscriber]: Auto status: False
+[INFO] [1711143978.294986665] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143978.304204976] [minimal_subscriber]: Auto status: False
+[INFO] [1711143978.518516199] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143978.525943233] [minimal_subscriber]: Auto status: False
+[INFO] [1711143978.801515913] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143978.807295802] [minimal_subscriber]: Auto status: False
+[INFO] [1711143978.927401161] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143978.932423438] [minimal_subscriber]: Auto status: False
+[INFO] [1711143979.101547949] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143979.113357909] [minimal_subscriber]: Auto status: False
+[INFO] [1711143979.331272467] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143979.335492642] [minimal_subscriber]: Auto status: False
+[INFO] [1711143979.517441208] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143979.521223386] [minimal_subscriber]: Auto status: False
+[INFO] [1711143979.726891486] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143979.737105993] [minimal_subscriber]: Auto status: False
+[INFO] [1711143979.745709215] [minimal_subscriber]: Data capture is active
+[INFO] [1711143979.751492473] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1711143979.772856730] [minimal_subscriber]: -----Data not recording-----
+[DEBUG] [1711143979.780935454] [minimal_subscriber]: Steering value: -0.0
+[DEBUG] [1711143979.786625291] [minimal_subscriber]: Throttle value: 1.0
+[INFO] [1711143979.930550836] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143979.938489157] [minimal_subscriber]: Auto status: False
+[INFO] [1711143979.957127723] [minimal_subscriber]: Data capture is active
+[INFO] [1711143979.959853854] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1711143979.963633702] [minimal_subscriber]: -----Data not recording-----
+[DEBUG] [1711143979.966513536] [minimal_subscriber]: Steering value: -0.0
+[DEBUG] [1711143979.969425981] [minimal_subscriber]: Throttle value: 1.0
+[INFO] [1711143980.099852019] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143980.108455620] [minimal_subscriber]: Auto status: False
+[INFO] [1711143980.122742979] [minimal_subscriber]: Data capture is active
+[INFO] [1711143980.132163934] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1711143980.147284435] [minimal_subscriber]: -----Data not recording-----
+[DEBUG] [1711143980.155020064] [minimal_subscriber]: Steering value: -0.0
+[DEBUG] [1711143980.164688382] [minimal_subscriber]: Throttle value: 1.0
+[INFO] [1711143980.299872972] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143980.306978021] [minimal_subscriber]: Auto status: False
+[INFO] [1711143980.315126136] [minimal_subscriber]: Data capture is active
+[INFO] [1711143980.320900984] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1711143980.329312343] [minimal_subscriber]: -----Data not recording-----
+[DEBUG] [1711143980.334881668] [minimal_subscriber]: Steering value: -0.0
+[DEBUG] [1711143980.341397358] [minimal_subscriber]: Throttle value: 1.0
+[INFO] [1711143980.517676888] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143980.530292711] [minimal_subscriber]: Auto status: False
+[INFO] [1711143980.547524905] [minimal_subscriber]: Data capture is active
+[INFO] [1711143980.559868974] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1711143980.565883666] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143980.568789561] [minimal_subscriber]: Steering value: -0.0
+[DEBUG] [1711143980.571605314] [minimal_subscriber]: Throttle value: 1.0
+[INFO] [1711143980.580250656] [minimal_subscriber]: -----Data not recording-----
+[DEBUG] [1711143980.589358406] [minimal_subscriber]: Steering value: -0.0
+[DEBUG] [1711143980.604327715] [minimal_subscriber]: Throttle value: 1.0
+[INFO] [1711143980.717970496] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143980.722752649] [minimal_subscriber]: Auto status: False
+[INFO] [1711143980.741042959] [minimal_subscriber]: Data capture is active
+[INFO] [1711143980.755642683] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1711143980.769138660] [minimal_subscriber]: -----Data not recording-----
+[DEBUG] [1711143980.778600084] [minimal_subscriber]: Steering value: -0.0
+[DEBUG] [1711143980.783740443] [minimal_subscriber]: Throttle value: 1.0
+[INFO] [1711143980.918699910] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143980.932614253] [minimal_subscriber]: Auto status: False
+[INFO] [1711143980.943036083] [minimal_subscriber]: Data capture is active
+[INFO] [1711143980.958202325] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1711143980.970488283] [minimal_subscriber]: -----Data not recording-----
+[DEBUG] [1711143980.981100136] [minimal_subscriber]: Steering value: -0.0
+[DEBUG] [1711143980.986664491] [minimal_subscriber]: Throttle value: 1.0
+[INFO] [1711143981.111093437] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143981.123554688] [minimal_subscriber]: Auto status: False
+[INFO] [1711143981.141326880] [minimal_subscriber]: Data capture is active
+[INFO] [1711143981.145749808] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1711143981.149783319] [minimal_subscriber]: -----Data not recording-----
+[DEBUG] [1711143981.153611748] [minimal_subscriber]: Steering value: -0.0
+[DEBUG] [1711143981.157076101] [minimal_subscriber]: Throttle value: 1.0
+[INFO] [1711143981.295920808] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143981.298824842] [minimal_subscriber]: Auto status: False
+[INFO] [1711143981.309207441] [minimal_subscriber]: Data capture is active
+[INFO] [1711143981.313796112] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1711143981.317637060] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143981.331194188] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143981.333994021] [minimal_subscriber]: Steering value: 0.10012158751487732
+[DEBUG] [1711143981.339561616] [minimal_subscriber]: Throttle value: 1.0
+[DEBUG] [1711143981.344242178] [minimal_subscriber]: Time to save gamepad data: 0.00018143653869628906 seconds
+[DEBUG] [1711143981.347722301] [minimal_subscriber]: Time to save cam0 data: 8.535385131835938e-05 seconds
+[DEBUG] [1711143981.352419583] [minimal_subscriber]: Time to save cam1 data: 6.747245788574219e-05 seconds
+[INFO] [1711143981.519385580] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143981.547273137] [minimal_subscriber]: Auto status: False
+[INFO] [1711143981.551953959] [minimal_subscriber]: Data capture is active
+[INFO] [1711143981.557116198] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1711143981.560044493] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143981.563519756] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143981.567949824] [minimal_subscriber]: Steering value: 0.28175491094589233
+[DEBUG] [1711143981.571615060] [minimal_subscriber]: Throttle value: 1.0
+[DEBUG] [1711143981.574573906] [minimal_subscriber]: Time to save gamepad data: 9.274482727050781e-05 seconds
+[DEBUG] [1711143981.577638013] [minimal_subscriber]: Time to save cam0 data: 6.628036499023438e-05 seconds
+[DEBUG] [1711143981.581425591] [minimal_subscriber]: Time to save cam1 data: 6.341934204101562e-05 seconds
+[INFO] [1711143981.713348151] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143981.717424674] [minimal_subscriber]: Auto status: False
+[INFO] [1711143981.720987088] [minimal_subscriber]: Data capture is active
+[INFO] [1711143981.723929143] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1711143981.727119722] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143981.730011816] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143981.733215175] [minimal_subscriber]: Steering value: 0.5872291326522827
+[DEBUG] [1711143981.736092979] [minimal_subscriber]: Throttle value: 0.46338823437690735
+[DEBUG] [1711143981.739572323] [minimal_subscriber]: Time to save gamepad data: 9.846687316894531e-05 seconds
+[DEBUG] [1711143981.742764962] [minimal_subscriber]: Time to save cam0 data: 6.604194641113281e-05 seconds
+[DEBUG] [1711143981.746197774] [minimal_subscriber]: Time to save cam1 data: 6.914138793945312e-05 seconds
+[INFO] [1711143981.893236966] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143981.900834443] [minimal_subscriber]: Auto status: False
+[INFO] [1711143981.908238636] [minimal_subscriber]: Data capture is active
+[INFO] [1711143981.916515583] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1711143981.922594726] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143981.930438966] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143981.936270545] [minimal_subscriber]: Steering value: 0.6780457496643066
+[DEBUG] [1711143981.946331049] [minimal_subscriber]: Throttle value: 0.28175491094589233
+[DEBUG] [1711143981.955184165] [minimal_subscriber]: Time to save gamepad data: 0.000110626220703125 seconds
+[DEBUG] [1711143981.962688730] [minimal_subscriber]: Time to save cam0 data: 7.891654968261719e-05 seconds
+[DEBUG] [1711143981.986240961] [minimal_subscriber]: Time to save cam1 data: 0.0001819133758544922 seconds
+[INFO] [1711143982.154688411] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143982.158467739] [minimal_subscriber]: Auto status: False
+[INFO] [1711143982.161836390] [minimal_subscriber]: Data capture is active
+[INFO] [1711143982.169378366] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1711143982.177917936] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143982.192483310] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143982.195382324] [minimal_subscriber]: Steering value: 0.6945579051971436
+[DEBUG] [1711143982.198213667] [minimal_subscriber]: Throttle value: 0.28175491094589233
+[DEBUG] [1711143982.201122042] [minimal_subscriber]: Time to save gamepad data: 9.274482727050781e-05 seconds
+[DEBUG] [1711143982.203936165] [minimal_subscriber]: Time to save cam0 data: 6.198883056640625e-05 seconds
+[DEBUG] [1711143982.207137484] [minimal_subscriber]: Time to save cam1 data: 6.628036499023438e-05 seconds
+[INFO] [1711143982.348288056] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143982.351101659] [minimal_subscriber]: Auto status: False
+[INFO] [1711143982.365722573] [minimal_subscriber]: Data capture is active
+[INFO] [1711143982.368680468] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1711143982.371603023] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143982.374544078] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143982.388271168] [minimal_subscriber]: Steering value: 0.8018866777420044
+[DEBUG] [1711143982.392611975] [minimal_subscriber]: Throttle value: 0.12488976866006851
+[DEBUG] [1711143982.413513065] [minimal_subscriber]: Time to save gamepad data: 9.107589721679688e-05 seconds
+[DEBUG] [1711143982.416510891] [minimal_subscriber]: Time to save cam0 data: 6.67572021484375e-05 seconds
+[DEBUG] [1711143982.419624858] [minimal_subscriber]: Time to save cam1 data: 0.00013327598571777344 seconds
+[INFO] [1711143982.537819139] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143982.540972877] [minimal_subscriber]: Auto status: False
+[INFO] [1711143982.547905083] [minimal_subscriber]: Data capture is active
+[INFO] [1711143982.557907546] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1711143982.563916698] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143982.571465314] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143982.578454661] [minimal_subscriber]: Steering value: 0.8018866777420044
+[DEBUG] [1711143982.585248635] [minimal_subscriber]: Throttle value: 0.10012158751487732
+[DEBUG] [1711143982.593305679] [minimal_subscriber]: Time to save gamepad data: 0.0001049041748046875 seconds
+[DEBUG] [1711143982.600774093] [minimal_subscriber]: Time to save cam0 data: 9.942054748535156e-05 seconds
+[DEBUG] [1711143982.608114285] [minimal_subscriber]: Time to save cam1 data: 7.700920104980469e-05 seconds
+[INFO] [1711143982.761270251] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143982.768458011] [minimal_subscriber]: Auto status: False
+[INFO] [1711143982.793124769] [minimal_subscriber]: Data capture is active
+[INFO] [1711143982.805406857] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1711143982.823326942] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143982.832097966] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143982.836079187] [minimal_subscriber]: Steering value: 0.8018866777420044
+[DEBUG] [1711143982.847613504] [minimal_subscriber]: Throttle value: 0.10012158751487732
+[DEBUG] [1711143982.866625795] [minimal_subscriber]: Time to save gamepad data: 0.00010395050048828125 seconds
+[DEBUG] [1711143982.869744233] [minimal_subscriber]: Time to save cam0 data: 6.914138793945312e-05 seconds
+[DEBUG] [1711143982.878918903] [minimal_subscriber]: Time to save cam1 data: 6.985664367675781e-05 seconds
+[INFO] [1711143982.951435144] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143982.984354038] [minimal_subscriber]: Auto status: False
+[INFO] [1711143982.990018585] [minimal_subscriber]: Data capture is active
+[INFO] [1711143983.011385552] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1711143983.016938937] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143983.022108856] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143983.028261000] [minimal_subscriber]: Steering value: 0.8018866777420044
+[DEBUG] [1711143983.033696094] [minimal_subscriber]: Throttle value: 0.21570642292499542
+[DEBUG] [1711143983.040472617] [minimal_subscriber]: Time to save gamepad data: 0.00011897087097167969 seconds
+[DEBUG] [1711143983.043880340] [minimal_subscriber]: Time to save cam0 data: 0.0001347064971923828 seconds
+[DEBUG] [1711143983.061737253] [minimal_subscriber]: Time to save cam1 data: 0.0008287429809570312 seconds
+[INFO] [1711143983.134339275] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143983.155487499] [minimal_subscriber]: Auto status: False
+[INFO] [1711143983.165999790] [minimal_subscriber]: Data capture is active
+[INFO] [1711143983.171989282] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1711143983.184819148] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143983.198909534] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143983.219871335] [minimal_subscriber]: Steering value: 0.8018866777420044
+[DEBUG] [1711143983.229983110] [minimal_subscriber]: Throttle value: 0.10012158751487732
+[DEBUG] [1711143983.249124043] [minimal_subscriber]: Time to save gamepad data: 0.00011181831359863281 seconds
+[DEBUG] [1711143983.264490808] [minimal_subscriber]: Time to save cam0 data: 8.821487426757812e-05 seconds
+[DEBUG] [1711143983.267757889] [minimal_subscriber]: Time to save cam1 data: 6.604194641113281e-05 seconds
+[INFO] [1711143983.374950500] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143983.380246461] [minimal_subscriber]: Auto status: False
+[INFO] [1711143983.387990500] [minimal_subscriber]: Data capture is active
+[INFO] [1711143983.393834640] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1711143983.404007165] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143983.419576854] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143983.442134509] [minimal_subscriber]: Steering value: 0.8514230251312256
+[DEBUG] [1711143983.449050705] [minimal_subscriber]: Throttle value: 0.009304932318627834
+[DEBUG] [1711143983.457743538] [minimal_subscriber]: Time to save gamepad data: 0.00010895729064941406 seconds
+[DEBUG] [1711143983.467206843] [minimal_subscriber]: Time to save cam0 data: 8.177757263183594e-05 seconds
+[DEBUG] [1711143983.497323305] [minimal_subscriber]: Time to save cam1 data: 7.462501525878906e-05 seconds
+[INFO] [1711143983.556004843] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143983.559545738] [minimal_subscriber]: Auto status: False
+[INFO] [1711143983.562381891] [minimal_subscriber]: Data capture is active
+[INFO] [1711143983.565654291] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1711143983.572023919] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143983.576663980] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143983.580651901] [minimal_subscriber]: Steering value: 1.0
+[DEBUG] [1711143983.586141335] [minimal_subscriber]: Throttle value: -0.034040987491607666
+[DEBUG] [1711143983.589190472] [minimal_subscriber]: Time to save gamepad data: 9.703636169433594e-05 seconds
+[DEBUG] [1711143983.592332320] [minimal_subscriber]: Time to save cam0 data: 6.318092346191406e-05 seconds
+[DEBUG] [1711143983.595273215] [minimal_subscriber]: Time to save cam1 data: 6.604194641113281e-05 seconds
+[INFO] [1711143983.708724002] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143983.713861391] [minimal_subscriber]: Auto status: False
+[INFO] [1711143983.719152562] [minimal_subscriber]: Data capture is active
+[INFO] [1711143983.724044877] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1711143983.732298563] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143983.737626575] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143983.742869615] [minimal_subscriber]: Steering value: 1.0
+[DEBUG] [1711143983.747946083] [minimal_subscriber]: Throttle value: -0.06706522405147552
+[DEBUG] [1711143983.752779277] [minimal_subscriber]: Time to save gamepad data: 0.00014209747314453125 seconds
+[DEBUG] [1711143983.757134464] [minimal_subscriber]: Time to save cam0 data: 9.131431579589844e-05 seconds
+[DEBUG] [1711143983.761965718] [minimal_subscriber]: Time to save cam1 data: 8.416175842285156e-05 seconds
+[INFO] [1711143983.946462274] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143983.957143127] [minimal_subscriber]: Auto status: False
+[INFO] [1711143983.971637439] [minimal_subscriber]: Data capture is active
+[INFO] [1711143983.988567478] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1711143984.001458356] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143984.004136467] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143984.021781357] [minimal_subscriber]: Steering value: 1.0
+[DEBUG] [1711143984.033606848] [minimal_subscriber]: Throttle value: -0.2817227840423584
+[DEBUG] [1711143984.041102713] [minimal_subscriber]: Time to save gamepad data: 9.560585021972656e-05 seconds
+[DEBUG] [1711143984.044719709] [minimal_subscriber]: Time to save cam0 data: 8.153915405273438e-05 seconds
+[DEBUG] [1711143984.048798921] [minimal_subscriber]: Time to save cam1 data: 7.2479248046875e-05 seconds
+[INFO] [1711143984.136217090] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143984.139362768] [minimal_subscriber]: Auto status: False
+[INFO] [1711143984.145474422] [minimal_subscriber]: Data capture is active
+[INFO] [1711143984.155790190] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1711143984.159214312] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143984.162112237] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143984.165860114] [minimal_subscriber]: Steering value: 1.0
+[DEBUG] [1711143984.168952641] [minimal_subscriber]: Throttle value: -0.10008946806192398
+[DEBUG] [1711143984.172068729] [minimal_subscriber]: Time to save gamepad data: 9.822845458984375e-05 seconds
+[DEBUG] [1711143984.175254488] [minimal_subscriber]: Time to save cam0 data: 6.818771362304688e-05 seconds
+[DEBUG] [1711143984.178567129] [minimal_subscriber]: Time to save cam1 data: 6.67572021484375e-05 seconds
+[INFO] [1711143984.306768552] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143984.313973542] [minimal_subscriber]: Auto status: False
+[INFO] [1711143984.317400605] [minimal_subscriber]: Data capture is active
+[INFO] [1711143984.321091221] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1711143984.335075766] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143984.337931089] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143984.340902115] [minimal_subscriber]: Steering value: 1.0
+[DEBUG] [1711143984.350019395] [minimal_subscriber]: Throttle value: -0.2156742960214615
+[DEBUG] [1711143984.353393506] [minimal_subscriber]: Time to save gamepad data: 0.00012350082397460938 seconds
+[DEBUG] [1711143984.373373762] [minimal_subscriber]: Time to save cam0 data: 6.508827209472656e-05 seconds
+[DEBUG] [1711143984.377067499] [minimal_subscriber]: Time to save cam1 data: 8.106231689453125e-05 seconds
+[INFO] [1711143984.499658966] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143984.502747344] [minimal_subscriber]: Auto status: False
+[INFO] [1711143984.522335604] [minimal_subscriber]: Data capture is active
+[INFO] [1711143984.526098291] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1711143984.536515591] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143984.552076089] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143984.555152446] [minimal_subscriber]: Steering value: 1.0
+[DEBUG] [1711143984.564897256] [minimal_subscriber]: Throttle value: -0.3725394308567047
+[DEBUG] [1711143984.570650344] [minimal_subscriber]: Time to save gamepad data: 0.00010919570922851562 seconds
+[DEBUG] [1711143984.574443912] [minimal_subscriber]: Time to save cam0 data: 9.274482727050781e-05 seconds
+[DEBUG] [1711143984.577923265] [minimal_subscriber]: Time to save cam1 data: 6.985664367675781e-05 seconds
+[INFO] [1711143984.700234138] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143984.703987856] [minimal_subscriber]: Auto status: False
+[INFO] [1711143984.707377818] [minimal_subscriber]: Data capture is active
+[INFO] [1711143984.710288052] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1711143984.714112681] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143984.718954445] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143984.722819194] [minimal_subscriber]: Steering value: 1.0
+[DEBUG] [1711143984.725999963] [minimal_subscriber]: Throttle value: -0.5541727542877197
+[DEBUG] [1711143984.729122161] [minimal_subscriber]: Time to save gamepad data: 9.584426879882812e-05 seconds
+[DEBUG] [1711143984.732243439] [minimal_subscriber]: Time to save cam0 data: 6.151199340820312e-05 seconds
+[DEBUG] [1711143984.735203364] [minimal_subscriber]: Time to save cam1 data: 6.318092346191406e-05 seconds
+[INFO] [1711143984.909946620] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143984.914757754] [minimal_subscriber]: Auto status: False
+[INFO] [1711143984.924646016] [minimal_subscriber]: Data capture is active
+[INFO] [1711143984.927466859] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1711143984.933272368] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143984.936787061] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143984.944940206] [minimal_subscriber]: Steering value: 1.0
+[DEBUG] [1711143984.948100035] [minimal_subscriber]: Throttle value: -0.6119651794433594
+[DEBUG] [1711143984.965087285] [minimal_subscriber]: Time to save gamepad data: 0.00010228157043457031 seconds
+[DEBUG] [1711143984.969970940] [minimal_subscriber]: Time to save cam0 data: 7.104873657226562e-05 seconds
+[DEBUG] [1711143984.973724797] [minimal_subscriber]: Time to save cam1 data: 6.246566772460938e-05 seconds
+[INFO] [1711143985.102584601] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143985.107909652] [minimal_subscriber]: Auto status: False
+[INFO] [1711143985.116142759] [minimal_subscriber]: Data capture is active
+[INFO] [1711143985.122364024] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1711143985.129181048] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143985.138461840] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143985.144935740] [minimal_subscriber]: Steering value: 1.0
+[DEBUG] [1711143985.150936131] [minimal_subscriber]: Throttle value: -0.5211485028266907
+[DEBUG] [1711143985.156722010] [minimal_subscriber]: Time to save gamepad data: 0.0001049041748046875 seconds
+[DEBUG] [1711143985.163727847] [minimal_subscriber]: Time to save cam0 data: 0.00010061264038085938 seconds
+[DEBUG] [1711143985.172396090] [minimal_subscriber]: Time to save cam1 data: 9.822845458984375e-05 seconds
+[INFO] [1711143985.324002462] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143985.343097035] [minimal_subscriber]: Auto status: False
+[INFO] [1711143985.351797628] [minimal_subscriber]: Data capture is active
+[INFO] [1711143985.359352574] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1711143985.366518623] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143985.375861796] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143985.386471419] [minimal_subscriber]: Steering value: 1.0
+[DEBUG] [1711143985.395927144] [minimal_subscriber]: Throttle value: -0.4633561074733734
+[DEBUG] [1711143985.400435553] [minimal_subscriber]: Time to save gamepad data: 0.00012183189392089844 seconds
+[DEBUG] [1711143985.403953787] [minimal_subscriber]: Time to save cam0 data: 0.00017261505126953125 seconds
+[DEBUG] [1711143985.407063324] [minimal_subscriber]: Time to save cam1 data: 6.341934204101562e-05 seconds
+[INFO] [1711143985.563508760] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143985.573393472] [minimal_subscriber]: Auto status: False
+[INFO] [1711143985.579009328] [minimal_subscriber]: Data capture is active
+[INFO] [1711143985.597461890] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1711143985.600414626] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143985.603449062] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143985.606449778] [minimal_subscriber]: Steering value: 1.0
+[DEBUG] [1711143985.622633956] [minimal_subscriber]: Throttle value: -0.5211485028266907
+[DEBUG] [1711143985.638755243] [minimal_subscriber]: Time to save gamepad data: 0.0001125335693359375 seconds
+[DEBUG] [1711143985.641669428] [minimal_subscriber]: Time to save cam0 data: 6.532669067382812e-05 seconds
+[DEBUG] [1711143985.644776375] [minimal_subscriber]: Time to save cam1 data: 8.821487426757812e-05 seconds
+[INFO] [1711143985.712487402] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143985.718004727] [minimal_subscriber]: Auto status: False
+[INFO] [1711143985.725820746] [minimal_subscriber]: Data capture is active
+[INFO] [1711143985.742349740] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1711143985.745572269] [minimal_subscriber]: -----Data not recording-----
+[DEBUG] [1711143985.756296413] [minimal_subscriber]: Steering value: -0.0
+[DEBUG] [1711143985.761871359] [minimal_subscriber]: Throttle value: -0.3973076045513153
+[INFO] [1711143985.934981510] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143985.943820225] [minimal_subscriber]: Auto status: False
+[INFO] [1711143985.955902440] [minimal_subscriber]: Data capture is active
+[INFO] [1711143985.962936618] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1711143985.972474264] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143985.995049510] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143985.997763001] [minimal_subscriber]: Steering value: -0.8679030537605286
+[DEBUG] [1711143986.000821918] [minimal_subscriber]: Throttle value: -0.10008946806192398
+[DEBUG] [1711143986.004815969] [minimal_subscriber]: Time to save gamepad data: 9.942054748535156e-05 seconds
+[DEBUG] [1711143986.008748890] [minimal_subscriber]: Time to save cam0 data: 7.486343383789062e-05 seconds
+[DEBUG] [1711143986.012207793] [minimal_subscriber]: Time to save cam1 data: 9.417533874511719e-05 seconds
+[INFO] [1711143986.135017044] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143986.158549664] [minimal_subscriber]: Auto status: False
+[INFO] [1711143986.166584147] [minimal_subscriber]: Data capture is active
+[INFO] [1711143986.188394951] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1711143986.196976033] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143986.204165043] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143986.209425473] [minimal_subscriber]: Steering value: -1.0
+[DEBUG] [1711143986.216326779] [minimal_subscriber]: Throttle value: -0.10008946806192398
+[DEBUG] [1711143986.221776422] [minimal_subscriber]: Time to save gamepad data: 0.00013709068298339844 seconds
+[DEBUG] [1711143986.229316998] [minimal_subscriber]: Time to save cam0 data: 8.7738037109375e-05 seconds
+[DEBUG] [1711143986.234818652] [minimal_subscriber]: Time to save cam1 data: 8.96453857421875e-05 seconds
+[INFO] [1711143986.332537379] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143986.343488267] [minimal_subscriber]: Auto status: False
+[INFO] [1711143986.348938800] [minimal_subscriber]: Data capture is active
+[INFO] [1711143986.359952469] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1711143986.365162389] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143986.376236368] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143986.384789039] [minimal_subscriber]: Steering value: -0.306490957736969
+[DEBUG] [1711143986.398290756] [minimal_subscriber]: Throttle value: -0.06706522405147552
+[DEBUG] [1711143986.414395493] [minimal_subscriber]: Time to save gamepad data: 0.000110626220703125 seconds
+[DEBUG] [1711143986.417776104] [minimal_subscriber]: Time to save cam0 data: 6.794929504394531e-05 seconds
+[DEBUG] [1711143986.421312279] [minimal_subscriber]: Time to save cam1 data: 7.176399230957031e-05 seconds
+[INFO] [1711143986.533313194] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143986.550898433] [minimal_subscriber]: Auto status: False
+[INFO] [1711143986.567085561] [minimal_subscriber]: Data capture is active
+[INFO] [1711143986.574657267] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1711143986.581584313] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143986.587259010] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143986.597274994] [minimal_subscriber]: Steering value: 0.28175491094589233
+[DEBUG] [1711143986.605466839] [minimal_subscriber]: Throttle value: -0.06706522405147552
+[DEBUG] [1711143986.640209411] [minimal_subscriber]: Time to save gamepad data: 0.00010514259338378906 seconds
+[DEBUG] [1711143986.643879957] [minimal_subscriber]: Time to save cam0 data: 7.367134094238281e-05 seconds
+[DEBUG] [1711143986.647930629] [minimal_subscriber]: Time to save cam1 data: 9.1552734375e-05 seconds
+[INFO] [1711143986.720343909] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143986.730176109] [minimal_subscriber]: Auto status: False
+[INFO] [1711143986.739307609] [minimal_subscriber]: Data capture is active
+[INFO] [1711143986.746357437] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1711143986.753041269] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143986.761191894] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143986.769391010] [minimal_subscriber]: Steering value: 0.7936305999755859
+[DEBUG] [1711143986.772634999] [minimal_subscriber]: Throttle value: -0.034040987491607666
+[DEBUG] [1711143986.776182134] [minimal_subscriber]: Time to save gamepad data: 0.00011157989501953125 seconds
+[DEBUG] [1711143986.792368362] [minimal_subscriber]: Time to save cam0 data: 7.796287536621094e-05 seconds
+[DEBUG] [1711143986.796136289] [minimal_subscriber]: Time to save cam1 data: 8.416175842285156e-05 seconds
+[INFO] [1711143986.910982898] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143986.917774102] [minimal_subscriber]: Auto status: False
+[INFO] [1711143986.926433345] [minimal_subscriber]: Data capture is active
+[INFO] [1711143986.934614380] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1711143986.948950130] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143986.954496065] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143986.960978394] [minimal_subscriber]: Steering value: -1.0
+[DEBUG] [1711143986.964453277] [minimal_subscriber]: Throttle value: -0.009272808209061623
+[DEBUG] [1711143986.967499734] [minimal_subscriber]: Time to save gamepad data: 0.00012445449829101562 seconds
+[DEBUG] [1711143986.970569471] [minimal_subscriber]: Time to save cam0 data: 6.890296936035156e-05 seconds
+[DEBUG] [1711143986.974351179] [minimal_subscriber]: Time to save cam1 data: 7.009506225585938e-05 seconds
+[INFO] [1711143987.110859870] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143987.124441288] [minimal_subscriber]: Auto status: False
+[INFO] [1711143987.135584188] [minimal_subscriber]: Data capture is active
+[INFO] [1711143987.149181207] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1711143987.152008640] [minimal_subscriber]: -----Data not recording-----
+[DEBUG] [1711143987.154839813] [minimal_subscriber]: Steering value: -0.0
+[DEBUG] [1711143987.157651846] [minimal_subscriber]: Throttle value: -0.009272808209061623
+[INFO] [1711143987.312387366] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143987.320029283] [minimal_subscriber]: Auto status: False
+[INFO] [1711143987.337122865] [minimal_subscriber]: Data capture is active
+[INFO] [1711143987.356427861] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1711143987.362910520] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143987.368797780] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143987.378083463] [minimal_subscriber]: Steering value: 1.0
+[DEBUG] [1711143987.390675405] [minimal_subscriber]: Throttle value: -0.009272808209061623
+[DEBUG] [1711143987.394224810] [minimal_subscriber]: Time to save gamepad data: 9.632110595703125e-05 seconds
+[DEBUG] [1711143987.397901466] [minimal_subscriber]: Time to save cam0 data: 7.462501525878906e-05 seconds
+[DEBUG] [1711143987.401691974] [minimal_subscriber]: Time to save cam1 data: 6.985664367675781e-05 seconds
+[INFO] [1711143987.509942692] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143987.527162806] [minimal_subscriber]: Auto status: False
+[INFO] [1711143987.535142958] [minimal_subscriber]: Data capture is active
+[INFO] [1711143987.552903080] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1711143987.560446736] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143987.566443027] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143987.573206401] [minimal_subscriber]: Steering value: -1.0
+[DEBUG] [1711143987.588136850] [minimal_subscriber]: Throttle value: -0.009272808209061623
+[DEBUG] [1711143987.597491383] [minimal_subscriber]: Time to save gamepad data: 0.00010514259338378906 seconds
+[DEBUG] [1711143987.600527350] [minimal_subscriber]: Time to save cam0 data: 7.414817810058594e-05 seconds
+[DEBUG] [1711143987.619450119] [minimal_subscriber]: Time to save cam1 data: 0.0017995834350585938 seconds
+[INFO] [1711143987.732471680] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143987.737086901] [minimal_subscriber]: Auto status: False
+[INFO] [1711143987.741121583] [minimal_subscriber]: Data capture is active
+[INFO] [1711143987.746108909] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1711143987.750959204] [minimal_subscriber]: -----Data not recording-----
+[DEBUG] [1711143987.755868649] [minimal_subscriber]: Steering value: -0.0
+[DEBUG] [1711143987.761465784] [minimal_subscriber]: Throttle value: -0.009272808209061623
+[INFO] [1711143987.904496035] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143987.911736516] [minimal_subscriber]: Auto status: False
+[INFO] [1711143987.925834672] [minimal_subscriber]: Data capture is active
+[INFO] [1711143987.942778771] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1711143987.953611527] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143987.962647116] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143987.971952658] [minimal_subscriber]: Steering value: 1.0
+[DEBUG] [1711143987.992221459] [minimal_subscriber]: Throttle value: -0.034040987491607666
+[DEBUG] [1711143988.004799371] [minimal_subscriber]: Time to save gamepad data: 0.00010442733764648438 seconds
+[DEBUG] [1711143988.007875588] [minimal_subscriber]: Time to save cam0 data: 6.866455078125e-05 seconds
+[DEBUG] [1711143988.020383250] [minimal_subscriber]: Time to save cam1 data: 6.318092346191406e-05 seconds
+[INFO] [1711143988.122142139] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143988.145966103] [minimal_subscriber]: Auto status: False
+[INFO] [1711143988.152525334] [minimal_subscriber]: Data capture is active
+[INFO] [1711143988.164424546] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1711143988.171654857] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143988.189084914] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143988.204773274] [minimal_subscriber]: Steering value: -0.7440621256828308
+[DEBUG] [1711143988.217559740] [minimal_subscriber]: Throttle value: -0.034040987491607666
+[DEBUG] [1711143988.228463257] [minimal_subscriber]: Time to save gamepad data: 0.00011539459228515625 seconds
+[DEBUG] [1711143988.239193381] [minimal_subscriber]: Time to save cam0 data: 8.797645568847656e-05 seconds
+[DEBUG] [1711143988.283130724] [minimal_subscriber]: Time to save cam1 data: 7.128715515136719e-05 seconds
+[INFO] [1711143988.323275919] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143988.335438925] [minimal_subscriber]: Auto status: False
+[INFO] [1711143988.347176515] [minimal_subscriber]: Data capture is active
+[INFO] [1711143988.362505040] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1711143988.375190804] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143988.386907244] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143988.394653352] [minimal_subscriber]: Steering value: -1.0
+[DEBUG] [1711143988.401068721] [minimal_subscriber]: Throttle value: -0.06706522405147552
+[DEBUG] [1711143988.405508879] [minimal_subscriber]: Time to save gamepad data: 0.00010752677917480469 seconds
+[DEBUG] [1711143988.443658123] [minimal_subscriber]: Time to save cam0 data: 7.05718994140625e-05 seconds
+[DEBUG] [1711143988.459694019] [minimal_subscriber]: Time to save cam1 data: 7.152557373046875e-05 seconds
+[INFO] [1711143988.526083975] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143988.537774054] [minimal_subscriber]: Auto status: False
+[INFO] [1711143988.541813396] [minimal_subscriber]: Data capture is active
+[INFO] [1711143988.575601964] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1711143988.581075778] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143988.588514552] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143988.598129579] [minimal_subscriber]: Steering value: 1.0
+[DEBUG] [1711143988.606600559] [minimal_subscriber]: Throttle value: -0.06706522405147552
+[DEBUG] [1711143988.613965341] [minimal_subscriber]: Time to save gamepad data: 0.00010561943054199219 seconds
+[DEBUG] [1711143988.625111622] [minimal_subscriber]: Time to save cam0 data: 8.20159912109375e-05 seconds
+[DEBUG] [1711143988.631822705] [minimal_subscriber]: Time to save cam1 data: 7.700920104980469e-05 seconds
+[INFO] [1711143988.915292667] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143988.923007095] [minimal_subscriber]: Auto status: False
+[INFO] [1711143988.931852960] [minimal_subscriber]: Data capture is active
+[INFO] [1711143988.940882528] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1711143988.948760889] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143988.956632500] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143988.964364408] [minimal_subscriber]: Steering value: -1.0
+[DEBUG] [1711143988.977618191] [minimal_subscriber]: Throttle value: -0.009272808209061623
+[DEBUG] [1711143988.986615069] [minimal_subscriber]: Time to save gamepad data: 0.00028133392333984375 seconds
+[DEBUG] [1711143989.009547870] [minimal_subscriber]: Time to save cam0 data: 9.584426879882812e-05 seconds
+[DEBUG] [1711143989.025469314] [minimal_subscriber]: Time to save cam1 data: 7.748603820800781e-05 seconds
+[INFO] [1711143989.136791929] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143989.145314570] [minimal_subscriber]: Auto status: False
+[INFO] [1711143989.151090508] [minimal_subscriber]: Data capture is active
+[INFO] [1711143989.159087861] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1711143989.167371677] [minimal_subscriber]: -----Data not recording-----
+[DEBUG] [1711143989.174254843] [minimal_subscriber]: Steering value: -0.0
+[DEBUG] [1711143989.180992506] [minimal_subscriber]: Throttle value: -0.009272808209061623
+[INFO] [1711143989.365556633] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143989.368649160] [minimal_subscriber]: Auto status: False
+[INFO] [1711143989.381160042] [minimal_subscriber]: Data capture is active
+[INFO] [1711143989.388107178] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1711143989.411094320] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143989.417346426] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143989.435563195] [minimal_subscriber]: Steering value: 1.0
+[DEBUG] [1711143989.441562537] [minimal_subscriber]: Throttle value: -0.009272808209061623
+[DEBUG] [1711143989.462201153] [minimal_subscriber]: Time to save gamepad data: 0.000118255615234375 seconds
+[DEBUG] [1711143989.474599233] [minimal_subscriber]: Time to save cam0 data: 0.0003147125244140625 seconds
+[DEBUG] [1711143989.480262740] [minimal_subscriber]: Time to save cam1 data: 7.605552673339844e-05 seconds
+[INFO] [1711143989.545305096] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143989.553566302] [minimal_subscriber]: Auto status: False
+[INFO] [1711143989.559322321] [minimal_subscriber]: Data capture is active
+[INFO] [1711143989.567534216] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1711143989.583435200] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143989.588924514] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143989.597131450] [minimal_subscriber]: Steering value: -0.9091833233833313
+[DEBUG] [1711143989.605340675] [minimal_subscriber]: Throttle value: -0.009272808209061623
+[DEBUG] [1711143989.623477953] [minimal_subscriber]: Time to save gamepad data: 0.00015592575073242188 seconds
+[DEBUG] [1711143989.635130622] [minimal_subscriber]: Time to save cam0 data: 7.82012939453125e-05 seconds
+[DEBUG] [1711143989.642569286] [minimal_subscriber]: Time to save cam1 data: 9.34600830078125e-05 seconds
+[INFO] [1711143989.743064195] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143989.747041906] [minimal_subscriber]: Auto status: False
+[INFO] [1711143989.752503209] [minimal_subscriber]: Data capture is active
+[INFO] [1711143989.774901772] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1711143989.785498185] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143989.792172367] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143989.795458847] [minimal_subscriber]: Steering value: -1.0
+[DEBUG] [1711143989.798328441] [minimal_subscriber]: Throttle value: -0.009272808209061623
+[DEBUG] [1711143989.818185065] [minimal_subscriber]: Time to save gamepad data: 0.00011444091796875 seconds
+[DEBUG] [1711143989.821475586] [minimal_subscriber]: Time to save cam0 data: 6.628036499023438e-05 seconds
+[DEBUG] [1711143989.824903448] [minimal_subscriber]: Time to save cam1 data: 6.866455078125e-05 seconds
+[INFO] [1711143989.918758986] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143989.928564306] [minimal_subscriber]: Auto status: False
+[INFO] [1711143989.953155342] [minimal_subscriber]: Data capture is active
+[INFO] [1711143989.960783119] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1711143989.964448975] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143989.968471327] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143989.973031737] [minimal_subscriber]: Steering value: -1.0
+[DEBUG] [1711143989.976825255] [minimal_subscriber]: Throttle value: -0.009272808209061623
+[DEBUG] [1711143989.980061655] [minimal_subscriber]: Time to save gamepad data: 0.00028967857360839844 seconds
+[DEBUG] [1711143989.983444286] [minimal_subscriber]: Time to save cam0 data: 6.318092346191406e-05 seconds
+[DEBUG] [1711143989.986735317] [minimal_subscriber]: Time to save cam1 data: 6.604194641113281e-05 seconds
+[INFO] [1711143990.106204137] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143990.122395585] [minimal_subscriber]: Auto status: False
+[INFO] [1711143990.125243328] [minimal_subscriber]: Data capture is active
+[INFO] [1711143990.135798440] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1711143990.142533023] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143990.145428047] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143990.156654179] [minimal_subscriber]: Steering value: 0.16617007553577423
+[DEBUG] [1711143990.170737005] [minimal_subscriber]: Throttle value: -0.009272808209061623
+[DEBUG] [1711143990.190170903] [minimal_subscriber]: Time to save gamepad data: 9.369850158691406e-05 seconds
+[DEBUG] [1711143990.196048503] [minimal_subscriber]: Time to save cam0 data: 0.0001163482666015625 seconds
+[DEBUG] [1711143990.207356136] [minimal_subscriber]: Time to save cam1 data: 7.224082946777344e-05 seconds
+[INFO] [1711143990.297279913] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143990.300484622] [minimal_subscriber]: Auto status: False
+[INFO] [1711143990.305162354] [minimal_subscriber]: Data capture is active
+[INFO] [1711143990.307946327] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1711143990.311389749] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143990.314215133] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143990.317655895] [minimal_subscriber]: Steering value: 1.0
+[DEBUG] [1711143990.321448703] [minimal_subscriber]: Throttle value: -0.009272808209061623
+[DEBUG] [1711143990.343687104] [minimal_subscriber]: Time to save gamepad data: 9.608268737792969e-05 seconds
+[DEBUG] [1711143990.348272704] [minimal_subscriber]: Time to save cam0 data: 0.00013566017150878906 seconds
+[DEBUG] [1711143990.352661561] [minimal_subscriber]: Time to save cam1 data: 7.724761962890625e-05 seconds
+[INFO] [1711143990.528783979] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143990.531536491] [minimal_subscriber]: Auto status: False
+[INFO] [1711143990.534647909] [minimal_subscriber]: Data capture is active
+[INFO] [1711143990.537343260] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1711143990.540246054] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143990.542995637] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143990.546344768] [minimal_subscriber]: Steering value: 0.9009593725204468
+[DEBUG] [1711143990.549054099] [minimal_subscriber]: Throttle value: -0.009272808209061623
+[DEBUG] [1711143990.552418851] [minimal_subscriber]: Time to save gamepad data: 9.894371032714844e-05 seconds
+[DEBUG] [1711143990.569987210] [minimal_subscriber]: Time to save cam0 data: 6.604194641113281e-05 seconds
+[DEBUG] [1711143990.572934435] [minimal_subscriber]: Time to save cam1 data: 6.794929504394531e-05 seconds
+[INFO] [1711143990.728776912] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143990.737655898] [minimal_subscriber]: Auto status: False
+[INFO] [1711143990.752348143] [minimal_subscriber]: Data capture is active
+[INFO] [1711143990.769884422] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1711143990.778294960] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143990.785440200] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143990.791701566] [minimal_subscriber]: Steering value: -1.0
+[DEBUG] [1711143990.796828264] [minimal_subscriber]: Throttle value: -0.009272808209061623
+[DEBUG] [1711143990.802501351] [minimal_subscriber]: Time to save gamepad data: 0.00014328956604003906 seconds
+[DEBUG] [1711143990.808254159] [minimal_subscriber]: Time to save cam0 data: 8.916854858398438e-05 seconds
+[DEBUG] [1711143990.815314897] [minimal_subscriber]: Time to save cam1 data: 9.679794311523438e-05 seconds
+[INFO] [1711143990.929661909] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143990.944326333] [minimal_subscriber]: Auto status: False
+[INFO] [1711143990.952788403] [minimal_subscriber]: Data capture is active
+[INFO] [1711143990.959291323] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1711143990.964603264] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143990.974234011] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143990.981154647] [minimal_subscriber]: Steering value: -1.0
+[DEBUG] [1711143990.985137178] [minimal_subscriber]: Throttle value: -0.009272808209061623
+[DEBUG] [1711143990.997955795] [minimal_subscriber]: Time to save gamepad data: 9.441375732421875e-05 seconds
+[DEBUG] [1711143991.003641622] [minimal_subscriber]: Time to save cam0 data: 7.724761962890625e-05 seconds
+[DEBUG] [1711143991.012167892] [minimal_subscriber]: Time to save cam1 data: 8.58306884765625e-05 seconds
+[INFO] [1711143991.093213384] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143991.105244538] [minimal_subscriber]: Auto status: False
+[INFO] [1711143991.108055021] [minimal_subscriber]: Data capture is active
+[INFO] [1711143991.111204369] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1711143991.114453969] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143991.118328618] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143991.122380850] [minimal_subscriber]: Steering value: 0.7193260788917542
+[DEBUG] [1711143991.125266145] [minimal_subscriber]: Throttle value: -0.009272808209061623
+[DEBUG] [1711143991.130625927] [minimal_subscriber]: Time to save gamepad data: 9.202957153320312e-05 seconds
+[DEBUG] [1711143991.134448655] [minimal_subscriber]: Time to save cam0 data: 8.797645568847656e-05 seconds
+[DEBUG] [1711143991.137467141] [minimal_subscriber]: Time to save cam1 data: 6.461143493652344e-05 seconds
+[INFO] [1711143991.318264271] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143991.332932355] [minimal_subscriber]: Auto status: False
+[INFO] [1711143991.335895921] [minimal_subscriber]: Data capture is active
+[INFO] [1711143991.339196511] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1711143991.342144566] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143991.352099579] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143991.367775659] [minimal_subscriber]: Steering value: 1.0
+[DEBUG] [1711143991.371212712] [minimal_subscriber]: Throttle value: -0.009272808209061623
+[DEBUG] [1711143991.381504829] [minimal_subscriber]: Time to save gamepad data: 9.965896606445312e-05 seconds
+[DEBUG] [1711143991.387923938] [minimal_subscriber]: Time to save cam0 data: 8.20159912109375e-05 seconds
+[DEBUG] [1711143991.406023905] [minimal_subscriber]: Time to save cam1 data: 0.000110626220703125 seconds
+[INFO] [1711143991.514073820] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143991.521946210] [minimal_subscriber]: Auto status: False
+[INFO] [1711143991.530091385] [minimal_subscriber]: Data capture is active
+[INFO] [1711143991.537834824] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1711143991.546508506] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143991.554496589] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143991.562485551] [minimal_subscriber]: Steering value: -0.9174394011497498
+[DEBUG] [1711143991.589672328] [minimal_subscriber]: Throttle value: -0.009272808209061623
+[DEBUG] [1711143991.595507427] [minimal_subscriber]: Time to save gamepad data: 0.00010156631469726562 seconds
+[DEBUG] [1711143991.607981758] [minimal_subscriber]: Time to save cam0 data: 7.677078247070312e-05 seconds
+[DEBUG] [1711143991.611674605] [minimal_subscriber]: Time to save cam1 data: 9.322166442871094e-05 seconds
+[INFO] [1711143991.712906065] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143991.722726265] [minimal_subscriber]: Auto status: False
+[INFO] [1711143991.729387417] [minimal_subscriber]: Data capture is active
+[INFO] [1711143991.738294174] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1711143991.751576677] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143991.761203935] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143991.786845087] [minimal_subscriber]: Steering value: -1.0
+[DEBUG] [1711143991.796691168] [minimal_subscriber]: Throttle value: -0.009272808209061623
+[DEBUG] [1711143991.819502858] [minimal_subscriber]: Time to save gamepad data: 0.00011086463928222656 seconds
+[DEBUG] [1711143991.833988099] [minimal_subscriber]: Time to save cam0 data: 6.341934204101562e-05 seconds
+[DEBUG] [1711143991.841035777] [minimal_subscriber]: Time to save cam1 data: 9.989738464355469e-05 seconds
+[INFO] [1711143991.947632990] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143991.960251203] [minimal_subscriber]: Auto status: False
+[INFO] [1711143991.965678216] [minimal_subscriber]: Data capture is active
+[INFO] [1711143991.971419024] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1711143991.974480161] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143991.980142138] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143991.983266556] [minimal_subscriber]: Steering value: 1.0
+[DEBUG] [1711143991.986324223] [minimal_subscriber]: Throttle value: -0.009272808209061623
+[DEBUG] [1711143992.001922002] [minimal_subscriber]: Time to save gamepad data: 0.00010228157043457031 seconds
+[DEBUG] [1711143992.006393400] [minimal_subscriber]: Time to save cam0 data: 6.890296936035156e-05 seconds
+[DEBUG] [1711143992.010319990] [minimal_subscriber]: Time to save cam1 data: 0.00010347366333007812 seconds
+[INFO] [1711143992.127488275] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143992.131030879] [minimal_subscriber]: Auto status: False
+[INFO] [1711143992.134098846] [minimal_subscriber]: Saving data to disk storage
+[DEBUG] [1711143992.290099815] [minimal_subscriber]: Time to store one index of data: 0.15198159217834473 seconds
+[DEBUG] [1711143992.383672518] [minimal_subscriber]: Time to store one index of data: 0.08954048156738281 seconds
+[DEBUG] [1711143992.476406319] [minimal_subscriber]: Time to store one index of data: 0.08924412727355957 seconds
+[DEBUG] [1711143992.570992477] [minimal_subscriber]: Time to store one index of data: 0.09093976020812988 seconds
+[DEBUG] [1711143992.664458829] [minimal_subscriber]: Time to store one index of data: 0.08933401107788086 seconds
+[DEBUG] [1711143992.757593325] [minimal_subscriber]: Time to store one index of data: 0.0891120433807373 seconds
+[DEBUG] [1711143992.851769418] [minimal_subscriber]: Time to store one index of data: 0.09020662307739258 seconds
+[DEBUG] [1711143992.943763947] [minimal_subscriber]: Time to store one index of data: 0.08848333358764648 seconds
+[DEBUG] [1711143993.034154811] [minimal_subscriber]: Time to store one index of data: 0.08631753921508789 seconds
+[DEBUG] [1711143993.142430250] [minimal_subscriber]: Time to store one index of data: 0.10191679000854492 seconds
+[DEBUG] [1711143993.233553325] [minimal_subscriber]: Time to store one index of data: 0.08711051940917969 seconds
+[DEBUG] [1711143993.325124118] [minimal_subscriber]: Time to store one index of data: 0.08769917488098145 seconds
+[DEBUG] [1711143993.421184229] [minimal_subscriber]: Time to store one index of data: 0.09220361709594727 seconds
+[DEBUG] [1711143993.514025061] [minimal_subscriber]: Time to store one index of data: 0.0894465446472168 seconds
+[DEBUG] [1711143993.606528828] [minimal_subscriber]: Time to store one index of data: 0.08809876441955566 seconds
+[DEBUG] [1711143993.699186837] [minimal_subscriber]: Time to store one index of data: 0.0892488956451416 seconds
+[DEBUG] [1711143993.791694874] [minimal_subscriber]: Time to store one index of data: 0.08869028091430664 seconds
+[DEBUG] [1711143993.882471654] [minimal_subscriber]: Time to store one index of data: 0.08730673789978027 seconds
+[DEBUG] [1711143993.974740147] [minimal_subscriber]: Time to store one index of data: 0.08802580833435059 seconds
+[DEBUG] [1711143994.142232903] [minimal_subscriber]: Time to store one index of data: 0.15628886222839355 seconds
+[DEBUG] [1711143994.348431041] [minimal_subscriber]: Time to store one index of data: 0.19842100143432617 seconds
+[DEBUG] [1711143994.614174951] [minimal_subscriber]: Time to store one index of data: 0.25849485397338867 seconds
+[DEBUG] [1711143994.708057969] [minimal_subscriber]: Time to store one index of data: 0.09036374092102051 seconds
+[DEBUG] [1711143994.801334808] [minimal_subscriber]: Time to store one index of data: 0.08877038955688477 seconds
+[DEBUG] [1711143994.893700042] [minimal_subscriber]: Time to store one index of data: 0.08869290351867676 seconds
+[DEBUG] [1711143994.985725162] [minimal_subscriber]: Time to store one index of data: 0.08822774887084961 seconds
+[DEBUG] [1711143995.077858393] [minimal_subscriber]: Time to store one index of data: 0.08762288093566895 seconds
+[DEBUG] [1711143995.205286484] [minimal_subscriber]: Time to store one index of data: 0.12423825263977051 seconds
+[DEBUG] [1711143995.303538559] [minimal_subscriber]: Time to store one index of data: 0.09412550926208496 seconds
+[DEBUG] [1711143995.401630002] [minimal_subscriber]: Time to store one index of data: 0.09412908554077148 seconds
+[DEBUG] [1711143995.499097675] [minimal_subscriber]: Time to store one index of data: 0.09382867813110352 seconds
+[DEBUG] [1711143995.595665964] [minimal_subscriber]: Time to store one index of data: 0.0930488109588623 seconds
+[DEBUG] [1711143995.688861101] [minimal_subscriber]: Time to store one index of data: 0.08931875228881836 seconds
+[DEBUG] [1711143995.782082869] [minimal_subscriber]: Time to store one index of data: 0.08997559547424316 seconds
+[DEBUG] [1711143995.877090024] [minimal_subscriber]: Time to store one index of data: 0.09140133857727051 seconds
+[DEBUG] [1711143995.971597511] [minimal_subscriber]: Time to store one index of data: 0.09052109718322754 seconds
+[DEBUG] [1711143996.065807044] [minimal_subscriber]: Time to store one index of data: 0.09019851684570312 seconds
+[DEBUG] [1711143996.160427953] [minimal_subscriber]: Time to store one index of data: 0.09136104583740234 seconds
+[DEBUG] [1711143996.254314961] [minimal_subscriber]: Time to store one index of data: 0.08992838859558105 seconds
+[DEBUG] [1711143996.348860750] [minimal_subscriber]: Time to store one index of data: 0.09078335762023926 seconds
+[DEBUG] [1711143996.440755557] [minimal_subscriber]: Time to store one index of data: 0.08870959281921387 seconds
+[DEBUG] [1711143996.535917515] [minimal_subscriber]: Time to store one index of data: 0.09177732467651367 seconds
+[DEBUG] [1711143996.627499187] [minimal_subscriber]: Time to store one index of data: 0.08838200569152832 seconds
+[DEBUG] [1711143996.720544872] [minimal_subscriber]: Time to store one index of data: 0.08951449394226074 seconds
+[DEBUG] [1711143996.812275157] [minimal_subscriber]: Time to store one index of data: 0.08759737014770508 seconds
+[DEBUG] [1711143996.904788564] [minimal_subscriber]: Time to store one index of data: 0.08896613121032715 seconds
+[DEBUG] [1711143996.997506504] [minimal_subscriber]: Time to store one index of data: 0.0886995792388916 seconds
+[DEBUG] [1711143997.089873629] [minimal_subscriber]: Time to store one index of data: 0.08887171745300293 seconds
+[DEBUG] [1711143997.182413716] [minimal_subscriber]: Time to store one index of data: 0.08858680725097656 seconds
+[DEBUG] [1711143997.273695724] [minimal_subscriber]: Time to store one index of data: 0.08772063255310059 seconds
+[DEBUG] [1711143997.276688870] [minimal_subscriber]: Time to store all data: 5.139662504196167 seconds
+[INFO] [1711143997.280504199] [minimal_subscriber]: Data capture is active
+[INFO] [1711143997.286492140] [minimal_subscriber]: Number of datapoints collected: 50
+[INFO] [1711143997.289685199] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143997.292654535] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143997.295791363] [minimal_subscriber]: Steering value: 1.0
+[DEBUG] [1711143997.299232696] [minimal_subscriber]: Throttle value: -0.009272808209061623
+[DEBUG] [1711143997.302800200] [minimal_subscriber]: Time to save gamepad data: 0.00010776519775390625 seconds
+[DEBUG] [1711143997.305733195] [minimal_subscriber]: Time to save cam0 data: 6.67572021484375e-05 seconds
+[DEBUG] [1711143997.308946764] [minimal_subscriber]: Time to save cam1 data: 7.033348083496094e-05 seconds
+[INFO] [1711143997.319367774] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143997.322308159] [minimal_subscriber]: Auto status: False
+[INFO] [1711143997.325763202] [minimal_subscriber]: Data capture is active
+[INFO] [1711143997.329300066] [minimal_subscriber]: Number of datapoints collected: 50
+[INFO] [1711143997.332888081] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143997.335793655] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143997.338931454] [minimal_subscriber]: Steering value: 1.0
+[DEBUG] [1711143997.342050741] [minimal_subscriber]: Throttle value: -0.0
+[DEBUG] [1711143997.345237960] [minimal_subscriber]: Time to save gamepad data: 9.942054748535156e-05 seconds
+[DEBUG] [1711143997.348275687] [minimal_subscriber]: Time to save cam0 data: 6.67572021484375e-05 seconds
+[DEBUG] [1711143997.352186847] [minimal_subscriber]: Time to save cam1 data: 7.748603820800781e-05 seconds
+[INFO] [1711143997.370695160] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143997.373815438] [minimal_subscriber]: Auto status: False
+[INFO] [1711143997.377121448] [minimal_subscriber]: Data capture is active
+[INFO] [1711143997.380332808] [minimal_subscriber]: Number of datapoints collected: 50
+[INFO] [1711143997.383436205] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143997.387065501] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143997.390276980] [minimal_subscriber]: Steering value: 1.0
+[DEBUG] [1711143997.394357582] [minimal_subscriber]: Throttle value: -0.0
+[DEBUG] [1711143997.398050489] [minimal_subscriber]: Time to save gamepad data: 0.0001342296600341797 seconds
+[DEBUG] [1711143997.401361680] [minimal_subscriber]: Time to save cam0 data: 7.2479248046875e-05 seconds
+[DEBUG] [1711143997.404897534] [minimal_subscriber]: Time to save cam1 data: 6.842613220214844e-05 seconds
+[INFO] [1711143997.414738055] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143997.418115296] [minimal_subscriber]: Auto status: False
+[INFO] [1711143997.421264345] [minimal_subscriber]: Data capture is active
+[INFO] [1711143997.424359662] [minimal_subscriber]: Number of datapoints collected: 50
+[INFO] [1711143997.427494140] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143997.430475136] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143997.433838877] [minimal_subscriber]: Steering value: -1.0
+[DEBUG] [1711143997.436769622] [minimal_subscriber]: Throttle value: 0.0340731106698513
+[DEBUG] [1711143997.439696997] [minimal_subscriber]: Time to save gamepad data: 0.00010013580322265625 seconds
+[DEBUG] [1711143997.442937126] [minimal_subscriber]: Time to save cam0 data: 7.43865966796875e-05 seconds
+[DEBUG] [1711143997.445994873] [minimal_subscriber]: Time to save cam1 data: 6.461143493652344e-05 seconds
+[INFO] [1711143997.457059113] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143997.460495725] [minimal_subscriber]: Auto status: False
+[INFO] [1711143997.464739840] [minimal_subscriber]: Data capture is active
+[INFO] [1711143997.468341626] [minimal_subscriber]: Number of datapoints collected: 50
+[INFO] [1711143997.471974421] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143997.475861321] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143997.479442826] [minimal_subscriber]: Steering value: -1.0
+[DEBUG] [1711143997.484258429] [minimal_subscriber]: Throttle value: -0.0
+[DEBUG] [1711143997.487689062] [minimal_subscriber]: Time to save gamepad data: 0.00010609626770019531 seconds
+[DEBUG] [1711143997.490627527] [minimal_subscriber]: Time to save cam0 data: 6.508827209472656e-05 seconds
+[DEBUG] [1711143997.494327564] [minimal_subscriber]: Time to save cam1 data: 6.389617919921875e-05 seconds
+[INFO] [1711143997.504577471] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143997.507877141] [minimal_subscriber]: Auto status: False
+[INFO] [1711143997.511135731] [minimal_subscriber]: Data capture is active
+[INFO] [1711143997.514443042] [minimal_subscriber]: Number of datapoints collected: 50
+[INFO] [1711143997.517736272] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143997.521279656] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143997.524636858] [minimal_subscriber]: Steering value: -1.0
+[DEBUG] [1711143997.528605539] [minimal_subscriber]: Throttle value: -0.0
+[DEBUG] [1711143997.533309031] [minimal_subscriber]: Time to save gamepad data: 0.00013256072998046875 seconds
+[DEBUG] [1711143997.536786584] [minimal_subscriber]: Time to save cam0 data: 7.462501525878906e-05 seconds
+[DEBUG] [1711143997.539724769] [minimal_subscriber]: Time to save cam1 data: 6.270408630371094e-05 seconds
+[INFO] [1711143997.550085368] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143997.553432549] [minimal_subscriber]: Auto status: False
+[INFO] [1711143997.556552637] [minimal_subscriber]: Data capture is active
+[INFO] [1711143997.560279274] [minimal_subscriber]: Number of datapoints collected: 50
+[INFO] [1711143997.563362361] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143997.566632931] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143997.569529515] [minimal_subscriber]: Steering value: -1.0
+[DEBUG] [1711143997.572880547] [minimal_subscriber]: Throttle value: -0.10008946806192398
+[DEBUG] [1711143997.575961994] [minimal_subscriber]: Time to save gamepad data: 9.632110595703125e-05 seconds
+[DEBUG] [1711143997.579496478] [minimal_subscriber]: Time to save cam0 data: 6.365776062011719e-05 seconds
+[DEBUG] [1711143997.583530030] [minimal_subscriber]: Time to save cam1 data: 7.224082946777344e-05 seconds
+[INFO] [1711143997.731455115] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143997.740250210] [minimal_subscriber]: Auto status: False
+[INFO] [1711143997.751573894] [minimal_subscriber]: Data capture is active
+[INFO] [1711143997.763767780] [minimal_subscriber]: Number of datapoints collected: 50
+[INFO] [1711143997.773238395] [minimal_subscriber]: -----Data not recording-----
+[DEBUG] [1711143997.781806837] [minimal_subscriber]: Steering value: -0.0
+[DEBUG] [1711143997.785592555] [minimal_subscriber]: Throttle value: -0.034040987491607666
+[INFO] [1711143997.887525886] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143997.901962777] [minimal_subscriber]: Auto status: False
+[INFO] [1711143997.908021080] [minimal_subscriber]: Data capture is active
+[INFO] [1711143997.917864441] [minimal_subscriber]: Number of datapoints collected: 50
+[INFO] [1711143997.924767906] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143997.945902500] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143997.965052733] [minimal_subscriber]: Steering value: 1.0
+[DEBUG] [1711143997.971396970] [minimal_subscriber]: Throttle value: -0.009272808209061623
+[DEBUG] [1711143997.989386796] [minimal_subscriber]: Time to save gamepad data: 0.00012421607971191406 seconds
+[DEBUG] [1711143997.992277780] [minimal_subscriber]: Time to save cam0 data: 6.341934204101562e-05 seconds
+[DEBUG] [1711143997.995092773] [minimal_subscriber]: Time to save cam1 data: 6.318092346191406e-05 seconds
+[INFO] [1711143998.099459652] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143998.113495297] [minimal_subscriber]: Auto status: False
+[INFO] [1711143998.123816725] [minimal_subscriber]: Data capture is active
+[INFO] [1711143998.131850398] [minimal_subscriber]: Number of datapoints collected: 50
+[INFO] [1711143998.145657129] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143998.163923669] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143998.175539437] [minimal_subscriber]: Steering value: 1.0
+[DEBUG] [1711143998.197759597] [minimal_subscriber]: Throttle value: -0.009272808209061623
+[DEBUG] [1711143998.201360773] [minimal_subscriber]: Time to save gamepad data: 0.00010180473327636719 seconds
+[DEBUG] [1711143998.210690165] [minimal_subscriber]: Time to save cam0 data: 7.104873657226562e-05 seconds
+[DEBUG] [1711143998.217197875] [minimal_subscriber]: Time to save cam1 data: 0.00010991096496582031 seconds
+[INFO] [1711143998.326050062] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143998.340375642] [minimal_subscriber]: Auto status: False
+[INFO] [1711143998.351301459] [minimal_subscriber]: Data capture is active
+[INFO] [1711143998.365702580] [minimal_subscriber]: Number of datapoints collected: 50
+[INFO] [1711143998.372844689] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143998.375791874] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143998.401122922] [minimal_subscriber]: Steering value: -1.0
+[DEBUG] [1711143998.404066327] [minimal_subscriber]: Throttle value: -0.06706522405147552
+[DEBUG] [1711143998.414258453] [minimal_subscriber]: Time to save gamepad data: 9.822845458984375e-05 seconds
+[DEBUG] [1711143998.417808438] [minimal_subscriber]: Time to save cam0 data: 8.487701416015625e-05 seconds
+[DEBUG] [1711143998.438395253] [minimal_subscriber]: Time to save cam1 data: 6.794929504394531e-05 seconds
+[INFO] [1711143998.536730039] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143998.548683192] [minimal_subscriber]: Auto status: False
+[INFO] [1711143998.569656703] [minimal_subscriber]: Data capture is active
+[INFO] [1711143998.576622740] [minimal_subscriber]: Number of datapoints collected: 50
+[INFO] [1711143998.582008983] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143998.587672779] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143998.594375262] [minimal_subscriber]: Steering value: -1.0
+[DEBUG] [1711143998.600676349] [minimal_subscriber]: Throttle value: -0.06706522405147552
+[DEBUG] [1711143998.606267704] [minimal_subscriber]: Time to save gamepad data: 0.00011277198791503906 seconds
+[DEBUG] [1711143998.611919411] [minimal_subscriber]: Time to save cam0 data: 8.249282836914062e-05 seconds
+[DEBUG] [1711143998.621194483] [minimal_subscriber]: Time to save cam1 data: 7.581710815429688e-05 seconds
+[INFO] [1711143998.732767172] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143998.738656542] [minimal_subscriber]: Auto status: False
+[INFO] [1711143998.743941193] [minimal_subscriber]: Data capture is active
+[INFO] [1711143998.749287935] [minimal_subscriber]: Number of datapoints collected: 50
+[INFO] [1711143998.755385288] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143998.760804361] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143998.766551699] [minimal_subscriber]: Steering value: 1.0
+[DEBUG] [1711143998.776328319] [minimal_subscriber]: Throttle value: -0.06706522405147552
+[DEBUG] [1711143998.781738842] [minimal_subscriber]: Time to save gamepad data: 0.00040531158447265625 seconds
+[DEBUG] [1711143998.786578126] [minimal_subscriber]: Time to save cam0 data: 9.012222290039062e-05 seconds
+[DEBUG] [1711143998.791818076] [minimal_subscriber]: Time to save cam1 data: 8.916854858398438e-05 seconds
+[INFO] [1711143998.910368382] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143998.924005361] [minimal_subscriber]: Auto status: False
+[INFO] [1711143998.935702940] [minimal_subscriber]: Data capture is active
+[INFO] [1711143998.948667358] [minimal_subscriber]: Number of datapoints collected: 50
+[INFO] [1711143998.965298093] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143998.971410337] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143998.981971818] [minimal_subscriber]: Steering value: 1.0
+[DEBUG] [1711143998.984787872] [minimal_subscriber]: Throttle value: -0.034040987491607666
+[DEBUG] [1711143998.987702706] [minimal_subscriber]: Time to save gamepad data: 9.846687316894531e-05 seconds
+[DEBUG] [1711143999.003237914] [minimal_subscriber]: Time to save cam0 data: 6.222724914550781e-05 seconds
+[DEBUG] [1711143999.014983234] [minimal_subscriber]: Time to save cam1 data: 0.0009558200836181641 seconds
+[INFO] [1711143999.104061018] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143999.116542140] [minimal_subscriber]: Auto status: False
+[INFO] [1711143999.131697222] [minimal_subscriber]: Data capture is active
+[INFO] [1711143999.137606272] [minimal_subscriber]: Number of datapoints collected: 50
+[INFO] [1711143999.140642509] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143999.152152585] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143999.162018796] [minimal_subscriber]: Steering value: -1.0
+[DEBUG] [1711143999.164941391] [minimal_subscriber]: Throttle value: -0.0
+[DEBUG] [1711143999.167866916] [minimal_subscriber]: Time to save gamepad data: 9.226799011230469e-05 seconds
+[DEBUG] [1711143999.171625343] [minimal_subscriber]: Time to save cam0 data: 7.104873657226562e-05 seconds
+[DEBUG] [1711143999.184331918] [minimal_subscriber]: Time to save cam1 data: 7.82012939453125e-05 seconds
+[INFO] [1711143999.309967082] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143999.313264823] [minimal_subscriber]: Auto status: False
+[INFO] [1711143999.315906883] [minimal_subscriber]: Data capture is active
+[INFO] [1711143999.332028720] [minimal_subscriber]: Number of datapoints collected: 50
+[INFO] [1711143999.335245429] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143999.338124383] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143999.368859574] [minimal_subscriber]: Steering value: -1.0
+[DEBUG] [1711143999.372099864] [minimal_subscriber]: Throttle value: -0.0
+[DEBUG] [1711143999.375236232] [minimal_subscriber]: Time to save gamepad data: 0.00010323524475097656 seconds
+[DEBUG] [1711143999.378953139] [minimal_subscriber]: Time to save cam0 data: 7.677078247070312e-05 seconds
+[DEBUG] [1711143999.382921649] [minimal_subscriber]: Time to save cam1 data: 8.296966552734375e-05 seconds
+[INFO] [1711143999.512729308] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143999.521714615] [minimal_subscriber]: Auto status: False
+[INFO] [1711143999.546686948] [minimal_subscriber]: Data capture is active
+[INFO] [1711143999.571238154] [minimal_subscriber]: Number of datapoints collected: 50
+[INFO] [1711143999.593807599] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143999.596863236] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143999.600600013] [minimal_subscriber]: Steering value: 1.0
+[DEBUG] [1711143999.613918737] [minimal_subscriber]: Throttle value: -0.06706522405147552
+[DEBUG] [1711143999.617221118] [minimal_subscriber]: Time to save gamepad data: 0.00010824203491210938 seconds
+[DEBUG] [1711143999.620689031] [minimal_subscriber]: Time to save cam0 data: 7.05718994140625e-05 seconds
+[DEBUG] [1711143999.623687027] [minimal_subscriber]: Time to save cam1 data: 7.390975952148438e-05 seconds
+[INFO] [1711143999.693263793] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143999.697001010] [minimal_subscriber]: Auto status: False
+[INFO] [1711143999.708099190] [minimal_subscriber]: Data capture is active
+[INFO] [1711143999.711743976] [minimal_subscriber]: Number of datapoints collected: 50
+[INFO] [1711143999.721741239] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143999.724478681] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143999.731578769] [minimal_subscriber]: Steering value: 1.0
+[DEBUG] [1711143999.741659224] [minimal_subscriber]: Throttle value: -0.034040987491607666
+[DEBUG] [1711143999.750316646] [minimal_subscriber]: Time to save gamepad data: 0.00010180473327636719 seconds
+[DEBUG] [1711143999.753683958] [minimal_subscriber]: Time to save cam0 data: 8.7738037109375e-05 seconds
+[DEBUG] [1711143999.757196312] [minimal_subscriber]: Time to save cam1 data: 6.67572021484375e-05 seconds
+[INFO] [1711143999.885825282] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711143999.889358976] [minimal_subscriber]: Auto status: False
+[INFO] [1711143999.892174879] [minimal_subscriber]: Data capture is active
+[INFO] [1711143999.903897279] [minimal_subscriber]: Number of datapoints collected: 50
+[INFO] [1711143999.916408630] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711143999.923189914] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711143999.938596510] [minimal_subscriber]: Steering value: -1.0
+[DEBUG] [1711143999.945830911] [minimal_subscriber]: Throttle value: -0.0
+[DEBUG] [1711143999.958256381] [minimal_subscriber]: Time to save gamepad data: 0.00012755393981933594 seconds
+[DEBUG] [1711143999.962885772] [minimal_subscriber]: Time to save cam0 data: 7.915496826171875e-05 seconds
+[DEBUG] [1711143999.966440587] [minimal_subscriber]: Time to save cam1 data: 6.628036499023438e-05 seconds
+[INFO] [1711144000.089057735] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711144000.092779352] [minimal_subscriber]: Auto status: False
+[INFO] [1711144000.107791072] [minimal_subscriber]: Data capture is active
+[INFO] [1711144000.144053877] [minimal_subscriber]: Number of datapoints collected: 50
+[INFO] [1711144000.153613533] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711144000.157595364] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711144000.174409252] [minimal_subscriber]: Steering value: -1.0
+[DEBUG] [1711144000.178059438] [minimal_subscriber]: Throttle value: -0.0
+[DEBUG] [1711144000.181953457] [minimal_subscriber]: Time to save gamepad data: 0.00011539459228515625 seconds
+[DEBUG] [1711144000.204991650] [minimal_subscriber]: Time to save cam0 data: 8.821487426757812e-05 seconds
+[DEBUG] [1711144000.208533445] [minimal_subscriber]: Time to save cam1 data: 7.653236389160156e-05 seconds
+[INFO] [1711144000.290699583] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711144000.303024872] [minimal_subscriber]: Auto status: False
+[INFO] [1711144000.310509886] [minimal_subscriber]: Data capture is active
+[INFO] [1711144000.322802635] [minimal_subscriber]: Number of datapoints collected: 50
+[INFO] [1711144000.329611139] [minimal_subscriber]: -----Data not recording-----
+[DEBUG] [1711144000.339015173] [minimal_subscriber]: Steering value: -0.0
+[DEBUG] [1711144000.348055301] [minimal_subscriber]: Throttle value: -0.0
+[INFO] [1711144000.547305233] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711144000.555790443] [minimal_subscriber]: Auto status: False
+[INFO] [1711144000.560754529] [minimal_subscriber]: Data capture is active
+[INFO] [1711144000.573960591] [minimal_subscriber]: Number of datapoints collected: 50
+[INFO] [1711144000.581280704] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711144000.591253256] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711144000.596830822] [minimal_subscriber]: Steering value: 1.0
+[DEBUG] [1711144000.602368527] [minimal_subscriber]: Throttle value: -0.0
+[DEBUG] [1711144000.621705673] [minimal_subscriber]: Time to save gamepad data: 0.0001220703125 seconds
+[DEBUG] [1711144000.627835237] [minimal_subscriber]: Time to save cam0 data: 7.462501525878906e-05 seconds
+[DEBUG] [1711144000.642458371] [minimal_subscriber]: Time to save cam1 data: 8.20159912109375e-05 seconds
+[INFO] [1711144000.701780429] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711144000.710635615] [minimal_subscriber]: Auto status: False
+[INFO] [1711144000.717064933] [minimal_subscriber]: Data capture is active
+[INFO] [1711144000.726176733] [minimal_subscriber]: Number of datapoints collected: 50
+[INFO] [1711144000.729790478] [minimal_subscriber]: -----Data not recording-----
+[DEBUG] [1711144000.733440634] [minimal_subscriber]: Steering value: -0.0
+[DEBUG] [1711144000.737186161] [minimal_subscriber]: Throttle value: -0.0
+[INFO] [1711144000.898302249] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711144000.907278677] [minimal_subscriber]: Auto status: False
+[INFO] [1711144000.917418102] [minimal_subscriber]: Data capture is active
+[INFO] [1711144000.935729432] [minimal_subscriber]: Number of datapoints collected: 50
+[INFO] [1711144000.941673403] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711144000.945203977] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711144000.948427067] [minimal_subscriber]: Steering value: -1.0
+[DEBUG] [1711144000.952819784] [minimal_subscriber]: Throttle value: -0.0
+[DEBUG] [1711144000.956758284] [minimal_subscriber]: Time to save gamepad data: 0.00010895729064941406 seconds
+[DEBUG] [1711144000.960165067] [minimal_subscriber]: Time to save cam0 data: 8.487701416015625e-05 seconds
+[DEBUG] [1711144000.974849371] [minimal_subscriber]: Time to save cam1 data: 6.937980651855469e-05 seconds
+[INFO] [1711144001.096008967] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711144001.106310325] [minimal_subscriber]: Auto status: False
+[INFO] [1711144001.110090983] [minimal_subscriber]: Data capture is active
+[INFO] [1711144001.113405764] [minimal_subscriber]: Number of datapoints collected: 50
+[INFO] [1711144001.117542737] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711144001.123053731] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711144001.144425649] [minimal_subscriber]: Steering value: -0.8596469759941101
+[DEBUG] [1711144001.150196347] [minimal_subscriber]: Throttle value: -0.0
+[DEBUG] [1711144001.156005506] [minimal_subscriber]: Time to save gamepad data: 0.00011348724365234375 seconds
+[DEBUG] [1711144001.160305362] [minimal_subscriber]: Time to save cam0 data: 6.580352783203125e-05 seconds
+[DEBUG] [1711144001.163470540] [minimal_subscriber]: Time to save cam1 data: 6.794929504394531e-05 seconds
+[INFO] [1711144001.313399047] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711144001.316599606] [minimal_subscriber]: Auto status: False
+[INFO] [1711144001.342838488] [minimal_subscriber]: Data capture is active
+[INFO] [1711144001.347223445] [minimal_subscriber]: Number of datapoints collected: 50
+[INFO] [1711144001.352795960] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711144001.367233231] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711144001.380738538] [minimal_subscriber]: Steering value: 1.0
+[DEBUG] [1711144001.396267856] [minimal_subscriber]: Throttle value: -0.0
+[DEBUG] [1711144001.404643334] [minimal_subscriber]: Time to save gamepad data: 0.0001220703125 seconds
+[DEBUG] [1711144001.408660046] [minimal_subscriber]: Time to save cam0 data: 7.987022399902344e-05 seconds
+[DEBUG] [1711144001.412511655] [minimal_subscriber]: Time to save cam1 data: 8.749961853027344e-05 seconds
+[INFO] [1711144001.508506015] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711144001.537493899] [minimal_subscriber]: Auto status: False
+[INFO] [1711144001.546490137] [minimal_subscriber]: Data capture is active
+[INFO] [1711144001.555982292] [minimal_subscriber]: Number of datapoints collected: 50
+[INFO] [1711144001.567616010] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711144001.579872508] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711144001.588234996] [minimal_subscriber]: Steering value: 1.0
+[DEBUG] [1711144001.602167840] [minimal_subscriber]: Throttle value: -0.0
+[DEBUG] [1711144001.605256287] [minimal_subscriber]: Time to save gamepad data: 0.0001049041748046875 seconds
+[DEBUG] [1711144001.608077270] [minimal_subscriber]: Time to save cam0 data: 6.270408630371094e-05 seconds
+[DEBUG] [1711144001.615326111] [minimal_subscriber]: Time to save cam1 data: 6.318092346191406e-05 seconds
+[INFO] [1711144001.731925927] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711144001.745897051] [minimal_subscriber]: Auto status: False
+[INFO] [1711144001.748768175] [minimal_subscriber]: Data capture is active
+[INFO] [1711144001.756335501] [minimal_subscriber]: Number of datapoints collected: 50
+[INFO] [1711144001.759846635] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711144001.763140285] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711144001.766123601] [minimal_subscriber]: Steering value: -1.0
+[DEBUG] [1711144001.769009105] [minimal_subscriber]: Throttle value: 0.009304932318627834
+[DEBUG] [1711144001.772112062] [minimal_subscriber]: Time to save gamepad data: 0.00010752677917480469 seconds
+[DEBUG] [1711144001.775996752] [minimal_subscriber]: Time to save cam0 data: 9.417533874511719e-05 seconds
+[DEBUG] [1711144001.782020124] [minimal_subscriber]: Time to save cam1 data: 7.915496826171875e-05 seconds
+[INFO] [1711144001.900810724] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711144001.908021734] [minimal_subscriber]: Auto status: False
+[INFO] [1711144001.934404148] [minimal_subscriber]: Data capture is active
+[INFO] [1711144001.937547296] [minimal_subscriber]: Number of datapoints collected: 50
+[INFO] [1711144001.949815714] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711144001.960941045] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711144001.965412893] [minimal_subscriber]: Steering value: -1.0
+[DEBUG] [1711144001.971084810] [minimal_subscriber]: Throttle value: 0.009304932318627834
+[DEBUG] [1711144001.976494603] [minimal_subscriber]: Time to save gamepad data: 0.00014638900756835938 seconds
+[DEBUG] [1711144001.982352132] [minimal_subscriber]: Time to save cam0 data: 9.584426879882812e-05 seconds
+[DEBUG] [1711144001.987838046] [minimal_subscriber]: Time to save cam1 data: 9.179115295410156e-05 seconds
+[INFO] [1711144002.109458859] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711144002.114452766] [minimal_subscriber]: Auto status: False
+[INFO] [1711144002.118707121] [minimal_subscriber]: Data capture is active
+[INFO] [1711144002.124382738] [minimal_subscriber]: Number of datapoints collected: 50
+[INFO] [1711144002.129955323] [minimal_subscriber]: -----Data not recording-----
+[DEBUG] [1711144002.136629065] [minimal_subscriber]: Steering value: -0.0
+[DEBUG] [1711144002.142099349] [minimal_subscriber]: Throttle value: 0.0340731106698513
+[INFO] [1711144002.303335439] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711144002.309232009] [minimal_subscriber]: Auto status: False
+[INFO] [1711144002.314998577] [minimal_subscriber]: Data capture is active
+[INFO] [1711144002.320349939] [minimal_subscriber]: Number of datapoints collected: 50
+[INFO] [1711144002.325248804] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711144002.330919941] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711144002.335756765] [minimal_subscriber]: Steering value: 1.0
+[DEBUG] [1711144002.341123607] [minimal_subscriber]: Throttle value: -0.06706522405147552
+[DEBUG] [1711144002.346461459] [minimal_subscriber]: Time to save gamepad data: 0.00012350082397460938 seconds
+[DEBUG] [1711144002.351102510] [minimal_subscriber]: Time to save cam0 data: 0.0003650188446044922 seconds
+[DEBUG] [1711144002.356268169] [minimal_subscriber]: Time to save cam1 data: 9.369850158691406e-05 seconds
+[INFO] [1711144002.491737484] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711144002.506892546] [minimal_subscriber]: Auto status: False
+[INFO] [1711144002.519365417] [minimal_subscriber]: Data capture is active
+[INFO] [1711144002.531909710] [minimal_subscriber]: Number of datapoints collected: 50
+[INFO] [1711144002.542904338] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711144002.546197908] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711144002.568447079] [minimal_subscriber]: Steering value: 1.0
+[DEBUG] [1711144002.576124507] [minimal_subscriber]: Throttle value: -0.12485764175653458
+[DEBUG] [1711144002.596463498] [minimal_subscriber]: Time to save gamepad data: 0.00012683868408203125 seconds
+[DEBUG] [1711144002.601408664] [minimal_subscriber]: Time to save cam0 data: 9.369850158691406e-05 seconds
+[DEBUG] [1711144002.617933447] [minimal_subscriber]: Time to save cam1 data: 9.250640869140625e-05 seconds
+[INFO] [1711144002.715956068] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711144002.720879764] [minimal_subscriber]: Auto status: False
+[INFO] [1711144002.727158600] [minimal_subscriber]: Data capture is active
+[INFO] [1711144002.732862397] [minimal_subscriber]: Number of datapoints collected: 50
+[INFO] [1711144002.737627930] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711144002.741587001] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711144002.746265093] [minimal_subscriber]: Steering value: 1.0
+[DEBUG] [1711144002.753322291] [minimal_subscriber]: Throttle value: -0.10008946806192398
+[DEBUG] [1711144002.758715543] [minimal_subscriber]: Time to save gamepad data: 0.000148773193359375 seconds
+[DEBUG] [1711144002.763889053] [minimal_subscriber]: Time to save cam0 data: 9.489059448242188e-05 seconds
+[DEBUG] [1711144002.769295665] [minimal_subscriber]: Time to save cam1 data: 9.036064147949219e-05 seconds
+[INFO] [1711144002.913758658] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711144002.921367194] [minimal_subscriber]: Auto status: False
+[INFO] [1711144002.927530419] [minimal_subscriber]: Data capture is active
+[INFO] [1711144002.933183665] [minimal_subscriber]: Number of datapoints collected: 50
+[INFO] [1711144002.942661071] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711144002.962329222] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711144002.969093785] [minimal_subscriber]: Steering value: -0.5871970057487488
+[DEBUG] [1711144002.975266640] [minimal_subscriber]: Throttle value: -0.306490957736969
+[DEBUG] [1711144002.981777190] [minimal_subscriber]: Time to save gamepad data: 0.00011730194091796875 seconds
+[DEBUG] [1711144002.989558169] [minimal_subscriber]: Time to save cam0 data: 9.679794311523438e-05 seconds
+[DEBUG] [1711144003.005659806] [minimal_subscriber]: Time to save cam1 data: 8.320808410644531e-05 seconds
+[INFO] [1711144003.098341325] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711144003.105778519] [minimal_subscriber]: Auto status: False
+[INFO] [1711144003.127659724] [minimal_subscriber]: Data capture is active
+[INFO] [1711144003.130884363] [minimal_subscriber]: Number of datapoints collected: 50
+[INFO] [1711144003.134425698] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711144003.148411372] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711144003.164399907] [minimal_subscriber]: Steering value: -1.0
+[DEBUG] [1711144003.171367554] [minimal_subscriber]: Throttle value: -0.1909061223268509
+[DEBUG] [1711144003.180327161] [minimal_subscriber]: Time to save gamepad data: 0.00011396408081054688 seconds
+[DEBUG] [1711144003.189279338] [minimal_subscriber]: Time to save cam0 data: 6.890296936035156e-05 seconds
+[DEBUG] [1711144003.206956949] [minimal_subscriber]: Time to save cam1 data: 8.821487426757812e-05 seconds
+[INFO] [1711144003.303687410] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711144003.309873845] [minimal_subscriber]: Auto status: False
+[INFO] [1711144003.329063059] [minimal_subscriber]: Data capture is active
+[INFO] [1711144003.334779846] [minimal_subscriber]: Number of datapoints collected: 50
+[INFO] [1711144003.340468573] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711144003.351810957] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711144003.360388749] [minimal_subscriber]: Steering value: -1.0
+[DEBUG] [1711144003.382135592] [minimal_subscriber]: Throttle value: -0.1909061223268509
+[DEBUG] [1711144003.397679250] [minimal_subscriber]: Time to save gamepad data: 0.00014066696166992188 seconds
+[DEBUG] [1711144003.406032448] [minimal_subscriber]: Time to save cam0 data: 0.0024497509002685547 seconds
+[DEBUG] [1711144003.412338844] [minimal_subscriber]: Time to save cam1 data: 8.7738037109375e-05 seconds
+[INFO] [1711144003.530481894] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711144003.533774094] [minimal_subscriber]: Auto status: False
+[INFO] [1711144003.537855337] [minimal_subscriber]: Data capture is active
+[INFO] [1711144003.541031625] [minimal_subscriber]: Number of datapoints collected: 50
+[INFO] [1711144003.543920760] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711144003.546736243] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711144003.550294427] [minimal_subscriber]: Steering value: 0.7193260788917542
+[DEBUG] [1711144003.553716770] [minimal_subscriber]: Throttle value: -0.15788188576698303
+[DEBUG] [1711144003.558541473] [minimal_subscriber]: Time to save gamepad data: 0.00011777877807617188 seconds
+[DEBUG] [1711144003.562684607] [minimal_subscriber]: Time to save cam0 data: 6.723403930664062e-05 seconds
+[DEBUG] [1711144003.565997828] [minimal_subscriber]: Time to save cam1 data: 7.653236389160156e-05 seconds
+[INFO] [1711144003.695963418] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711144003.714272709] [minimal_subscriber]: Auto status: False
+[INFO] [1711144003.722763199] [minimal_subscriber]: Data capture is active
+[INFO] [1711144003.725729104] [minimal_subscriber]: Number of datapoints collected: 50
+[INFO] [1711144003.735763478] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711144003.742439850] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711144003.750886489] [minimal_subscriber]: Steering value: 1.0
+[DEBUG] [1711144003.754496015] [minimal_subscriber]: Throttle value: -0.15788188576698303
+[DEBUG] [1711144003.757981298] [minimal_subscriber]: Time to save gamepad data: 0.00011515617370605469 seconds
+[DEBUG] [1711144003.775885292] [minimal_subscriber]: Time to save cam0 data: 6.842613220214844e-05 seconds
+[DEBUG] [1711144003.778898818] [minimal_subscriber]: Time to save cam1 data: 7.104873657226562e-05 seconds
+[INFO] [1711144003.890883434] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711144003.897031398] [minimal_subscriber]: Auto status: False
+[INFO] [1711144003.906783817] [minimal_subscriber]: Data capture is active
+[INFO] [1711144003.927777089] [minimal_subscriber]: Number of datapoints collected: 50
+[INFO] [1711144003.933715020] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711144003.939800983] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711144003.948921823] [minimal_subscriber]: Steering value: 1.0
+[DEBUG] [1711144003.954506438] [minimal_subscriber]: Throttle value: -0.12485764175653458
+[DEBUG] [1711144003.961179600] [minimal_subscriber]: Time to save gamepad data: 0.00012421607971191406 seconds
+[DEBUG] [1711144003.971522699] [minimal_subscriber]: Time to save cam0 data: 9.822845458984375e-05 seconds
+[DEBUG] [1711144003.979632523] [minimal_subscriber]: Time to save cam1 data: 7.414817810058594e-05 seconds
+[INFO] [1711144004.086367088] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711144004.089566747] [minimal_subscriber]: Auto status: False
+[INFO] [1711144004.099752243] [minimal_subscriber]: Data capture is active
+[INFO] [1711144004.114177954] [minimal_subscriber]: Number of datapoints collected: 50
+[INFO] [1711144004.118769804] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711144004.121946353] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711144004.125195662] [minimal_subscriber]: Steering value: 1.0
+[DEBUG] [1711144004.128129927] [minimal_subscriber]: Throttle value: -0.10008946806192398
+[DEBUG] [1711144004.132460964] [minimal_subscriber]: Time to save gamepad data: 0.00010895729064941406 seconds
+[DEBUG] [1711144004.136295402] [minimal_subscriber]: Time to save cam0 data: 0.00014495849609375 seconds
+[DEBUG] [1711144004.139201327] [minimal_subscriber]: Time to save cam1 data: 6.580352783203125e-05 seconds
+[INFO] [1711144004.299538383] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711144004.306360297] [minimal_subscriber]: Auto status: False
+[INFO] [1711144004.313665329] [minimal_subscriber]: Data capture is active
+[INFO] [1711144004.321516509] [minimal_subscriber]: Number of datapoints collected: 50
+[INFO] [1711144004.327041674] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711144004.337982031] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711144004.349468417] [minimal_subscriber]: Steering value: 1.0
+[DEBUG] [1711144004.363967419] [minimal_subscriber]: Throttle value: -0.06706522405147552
+[DEBUG] [1711144004.367595465] [minimal_subscriber]: Time to save gamepad data: 0.00014495849609375 seconds
+[DEBUG] [1711144004.383289035] [minimal_subscriber]: Time to save cam0 data: 7.62939453125e-05 seconds
+[DEBUG] [1711144004.388990603] [minimal_subscriber]: Time to save cam1 data: 0.00014281272888183594 seconds
+[INFO] [1711144004.489380390] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711144004.496146394] [minimal_subscriber]: Auto status: False
+[INFO] [1711144004.503081370] [minimal_subscriber]: Data capture is active
+[INFO] [1711144004.510542274] [minimal_subscriber]: Number of datapoints collected: 50
+[INFO] [1711144004.523473952] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711144004.529614076] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711144004.540412962] [minimal_subscriber]: Steering value: 1.0
+[DEBUG] [1711144004.552691120] [minimal_subscriber]: Throttle value: -0.06706522405147552
+[DEBUG] [1711144004.571968395] [minimal_subscriber]: Time to save gamepad data: 0.0003228187561035156 seconds
+[DEBUG] [1711144004.574835009] [minimal_subscriber]: Time to save cam0 data: 7.43865966796875e-05 seconds
+[DEBUG] [1711144004.586943615] [minimal_subscriber]: Time to save cam1 data: 7.05718994140625e-05 seconds
+[INFO] [1711144004.699097812] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711144004.706895272] [minimal_subscriber]: Auto status: False
+[INFO] [1711144004.727855443] [minimal_subscriber]: Data capture is active
+[INFO] [1711144004.745872379] [minimal_subscriber]: Number of datapoints collected: 50
+[INFO] [1711144004.748678232] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711144004.757702290] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711144004.761573249] [minimal_subscriber]: Steering value: 1.0
+[DEBUG] [1711144004.764440433] [minimal_subscriber]: Throttle value: -0.06706522405147552
+[DEBUG] [1711144004.767465299] [minimal_subscriber]: Time to save gamepad data: 0.00012612342834472656 seconds
+[DEBUG] [1711144004.781605666] [minimal_subscriber]: Time to save cam0 data: 6.794929504394531e-05 seconds
+[DEBUG] [1711144004.784593382] [minimal_subscriber]: Time to save cam1 data: 6.794929504394531e-05 seconds
+[INFO] [1711144004.919807143] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711144004.940123784] [minimal_subscriber]: Auto status: False
+[INFO] [1711144004.961651154] [minimal_subscriber]: Data capture is active
+[INFO] [1711144004.964962594] [minimal_subscriber]: Number of datapoints collected: 50
+[INFO] [1711144004.972503720] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711144004.977752270] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711144005.008957368] [minimal_subscriber]: Steering value: 1.0
+[DEBUG] [1711144005.012321810] [minimal_subscriber]: Throttle value: -0.06706522405147552
+[DEBUG] [1711144005.015548029] [minimal_subscriber]: Time to save gamepad data: 9.393692016601562e-05 seconds
+[DEBUG] [1711144005.018861400] [minimal_subscriber]: Time to save cam0 data: 6.461143493652344e-05 seconds
+[DEBUG] [1711144005.023548032] [minimal_subscriber]: Time to save cam1 data: 6.651878356933594e-05 seconds
+[INFO] [1711144005.116382253] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711144005.121994599] [minimal_subscriber]: Auto status: False
+[INFO] [1711144005.129109368] [minimal_subscriber]: Data capture is active
+[INFO] [1711144005.140532903] [minimal_subscriber]: Number of datapoints collected: 50
+[INFO] [1711144005.146500555] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711144005.151973179] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711144005.158389207] [minimal_subscriber]: Steering value: 1.0
+[DEBUG] [1711144005.164944577] [minimal_subscriber]: Throttle value: -0.034040987491607666
+[DEBUG] [1711144005.173241214] [minimal_subscriber]: Time to save gamepad data: 0.00011444091796875 seconds
+[DEBUG] [1711144005.180475015] [minimal_subscriber]: Time to save cam0 data: 0.00012445449829101562 seconds
+[DEBUG] [1711144005.189926780] [minimal_subscriber]: Time to save cam1 data: 7.653236389160156e-05 seconds
+[INFO] [1711144005.312906163] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711144005.317917480] [minimal_subscriber]: Auto status: False
+[INFO] [1711144005.327463496] [minimal_subscriber]: Data capture is active
+[INFO] [1711144005.333051922] [minimal_subscriber]: Number of datapoints collected: 50
+[INFO] [1711144005.338718429] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711144005.345028355] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711144005.349968651] [minimal_subscriber]: Steering value: 1.0
+[DEBUG] [1711144005.354591202] [minimal_subscriber]: Throttle value: -0.0
+[DEBUG] [1711144005.360531893] [minimal_subscriber]: Time to save gamepad data: 0.0001239776611328125 seconds
+[DEBUG] [1711144005.365445178] [minimal_subscriber]: Time to save cam0 data: 9.012222290039062e-05 seconds
+[DEBUG] [1711144005.370197861] [minimal_subscriber]: Time to save cam1 data: 9.870529174804688e-05 seconds
+[INFO] [1711144005.505312660] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711144005.518854018] [minimal_subscriber]: Auto status: False
+[INFO] [1711144005.522043847] [minimal_subscriber]: Data capture is active
+[INFO] [1711144005.527792245] [minimal_subscriber]: Number of datapoints collected: 50
+[INFO] [1711144005.530778700] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711144005.544242477] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711144005.551314835] [minimal_subscriber]: Steering value: 1.0
+[DEBUG] [1711144005.559259177] [minimal_subscriber]: Throttle value: -0.0
+[DEBUG] [1711144005.566463157] [minimal_subscriber]: Time to save gamepad data: 0.000141143798828125 seconds
+[DEBUG] [1711144005.572548300] [minimal_subscriber]: Time to save cam0 data: 7.915496826171875e-05 seconds
+[DEBUG] [1711144005.592476855] [minimal_subscriber]: Time to save cam1 data: 7.677078247070312e-05 seconds
+[INFO] [1711144005.729854169] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711144005.733766649] [minimal_subscriber]: Auto status: False
+[INFO] [1711144005.740150707] [minimal_subscriber]: Data capture is active
+[INFO] [1711144005.759408592] [minimal_subscriber]: Number of datapoints collected: 50
+[INFO] [1711144005.775492118] [minimal_subscriber]: Vehicle is turning
+[INFO] [1711144005.780370483] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711144005.806500663] [minimal_subscriber]: Steering value: 1.0
+[DEBUG] [1711144005.809710573] [minimal_subscriber]: Throttle value: 0.30652308464050293
+[DEBUG] [1711144005.813656243] [minimal_subscriber]: Time to save gamepad data: 0.0001227855682373047 seconds
+[DEBUG] [1711144005.817000124] [minimal_subscriber]: Time to save cam0 data: 6.604194641113281e-05 seconds
+[DEBUG] [1711144005.826479249] [minimal_subscriber]: Time to save cam1 data: 8.96453857421875e-05 seconds
+[INFO] [1711144005.901413597] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711144005.908662008] [minimal_subscriber]: Auto status: False
+[INFO] [1711144005.939898617] [minimal_subscriber]: Data capture is active
+[INFO] [1711144005.943642754] [minimal_subscriber]: Number of datapoints collected: 50
+[INFO] [1711144005.947189458] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711144005.950640961] [minimal_subscriber]: Steering value: -0.0
+[DEBUG] [1711144005.964103577] [minimal_subscriber]: Throttle value: 1.0
+[INFO] [1711144005.975133796] [minimal_subscriber]: -----Data not recording-----
+[DEBUG] [1711144005.977963470] [minimal_subscriber]: Steering value: -0.0
+[DEBUG] [1711144005.985636997] [minimal_subscriber]: Throttle value: 1.0
+[INFO] [1711144006.104103851] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711144006.107244410] [minimal_subscriber]: Auto status: False
+[INFO] [1711144006.124884780] [minimal_subscriber]: Data capture is active
+[INFO] [1711144006.128487365] [minimal_subscriber]: Number of datapoints collected: 50
+[INFO] [1711144006.131388439] [minimal_subscriber]: -----Data not recording-----
+[DEBUG] [1711144006.134332994] [minimal_subscriber]: Steering value: -0.0
+[DEBUG] [1711144006.151748141] [minimal_subscriber]: Throttle value: 1.0
+[INFO] [1711144006.308632394] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711144006.312125148] [minimal_subscriber]: Auto status: False
+[INFO] [1711144006.315223445] [minimal_subscriber]: Data capture is active
+[INFO] [1711144006.319443870] [minimal_subscriber]: Number of datapoints collected: 50
+[INFO] [1711144006.323479651] [minimal_subscriber]: -----Data not recording-----
+[DEBUG] [1711144006.328005371] [minimal_subscriber]: Steering value: -0.0
+[DEBUG] [1711144006.331777889] [minimal_subscriber]: Throttle value: 1.0
+[INFO] [1711144006.521236540] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711144006.533663771] [minimal_subscriber]: Auto status: False
+[INFO] [1711144006.542260972] [minimal_subscriber]: Data capture is active
+[INFO] [1711144006.549834148] [minimal_subscriber]: Number of datapoints collected: 50
+[INFO] [1711144006.555548326] [minimal_subscriber]: -----Data not recording-----
+[DEBUG] [1711144006.560864077] [minimal_subscriber]: Steering value: -0.0
+[DEBUG] [1711144006.569979827] [minimal_subscriber]: Throttle value: 1.0
+[INFO] [1711144006.760556996] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711144006.766591648] [minimal_subscriber]: Auto status: False
+[INFO] [1711144006.772536439] [minimal_subscriber]: Data capture is active
+[INFO] [1711144006.778476000] [minimal_subscriber]: Number of datapoints collected: 50
+[INFO] [1711144006.797929078] [minimal_subscriber]: -----Data not recording-----
+[DEBUG] [1711144006.805478994] [minimal_subscriber]: Steering value: -0.0
+[DEBUG] [1711144006.812865737] [minimal_subscriber]: Throttle value: 1.0
+[INFO] [1711144006.964687382] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711144006.969371944] [minimal_subscriber]: Auto status: False
+[INFO] [1711144006.974313220] [minimal_subscriber]: Data capture is active
+[INFO] [1711144006.978570755] [minimal_subscriber]: Number of datapoints collected: 50
+[INFO] [1711144006.987054585] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1711144007.012372533] [minimal_subscriber]: Steering value: -0.0
+[DEBUG] [1711144007.015754344] [minimal_subscriber]: Throttle value: 1.0
+[INFO] [1711144007.021868548] [minimal_subscriber]: -----Data not recording-----
+[DEBUG] [1711144007.037825912] [minimal_subscriber]: Steering value: -0.0
+[DEBUG] [1711144007.044795019] [minimal_subscriber]: Throttle value: 1.0
+[INFO] [1711144007.103274605] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711144007.125759459] [minimal_subscriber]: Auto status: False
+[INFO] [1711144007.131949374] [minimal_subscriber]: Data capture is active
+[INFO] [1711144007.154051813] [minimal_subscriber]: Number of datapoints collected: 50
+[INFO] [1711144007.168110598] [minimal_subscriber]: -----Data not recording-----
+[DEBUG] [1711144007.183978481] [minimal_subscriber]: Steering value: -0.0
+[DEBUG] [1711144007.195946594] [minimal_subscriber]: Throttle value: 1.0
+[INFO] [1711144007.304528707] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711144007.314092994] [minimal_subscriber]: Auto status: False
+[INFO] [1711144007.346147585] [minimal_subscriber]: Data capture is active
+[INFO] [1711144007.354849338] [minimal_subscriber]: Number of datapoints collected: 50
+[INFO] [1711144007.361520440] [minimal_subscriber]: -----Data not recording-----
+[DEBUG] [1711144007.379806280] [minimal_subscriber]: Steering value: -0.0
+[DEBUG] [1711144007.397766235] [minimal_subscriber]: Throttle value: 1.0
+[INFO] [1711144007.505366533] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711144007.509252233] [minimal_subscriber]: Auto status: False
+[INFO] [1711144007.516573775] [minimal_subscriber]: Data capture is active
+[INFO] [1711144007.525170557] [minimal_subscriber]: Number of datapoints collected: 50
+[INFO] [1711144007.542363130] [minimal_subscriber]: -----Data not recording-----
+[DEBUG] [1711144007.550094698] [minimal_subscriber]: Steering value: -0.0
+[DEBUG] [1711144007.555927918] [minimal_subscriber]: Throttle value: 1.0
+[INFO] [1711144007.688379656] [minimal_subscriber]: listener_callback() executing
+[INFO] [1711144007.700292519] [minimal_subscriber]: Auto status: False
+[INFO] [1711144007.709714133] [minimal_subscriber]: Data capture is active
+[INFO] [1711144007.722009271] [minimal_subscriber]: Number of datapoints collected: 50
+[INFO] [1711144007.728819556] [minimal_subscriber]: -----Data not recording-----
+[DEBUG] [1711144007.734562084] [minimal_subscriber]: Steering value: -0.0
+[DEBUG] [1711144007.743705464] [minimal_subscriber]: Throttle value: 1.0
+[INFO] [1711144007.918322078] [minimal_subscriber]: listener_callback() executing
+[INFO] [171114

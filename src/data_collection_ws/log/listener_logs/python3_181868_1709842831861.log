@@ -1,0 +1,61 @@
+[DEBUG] [1709842832.029939525] [minimal_subscriber]: Listener object has been instantiated after 0.1473863124847412 seconds
+[INFO] [1709842834.371612190] [minimal_subscriber]: listener_callback() executing
+[INFO] [1709842834.372008245] [minimal_subscriber]: Auto status: False
+[INFO] [1709842834.561096651] [minimal_subscriber]: listener_callback() executing
+[INFO] [1709842834.561764637] [minimal_subscriber]: Auto status: False
+[INFO] [1709842834.761340397] [minimal_subscriber]: listener_callback() executing
+[INFO] [1709842834.762048669] [minimal_subscriber]: Auto status: False
+[INFO] [1709842834.977403329] [minimal_subscriber]: listener_callback() executing
+[INFO] [1709842834.978070244] [minimal_subscriber]: Auto status: False
+[INFO] [1709842835.164280675] [minimal_subscriber]: listener_callback() executing
+[INFO] [1709842835.164989799] [minimal_subscriber]: Auto status: False
+[INFO] [1709842835.363571307] [minimal_subscriber]: listener_callback() executing
+[INFO] [1709842835.364269581] [minimal_subscriber]: Auto status: False
+[INFO] [1709842835.568484099] [minimal_subscriber]: listener_callback() executing
+[INFO] [1709842835.569191941] [minimal_subscriber]: Auto status: False
+[INFO] [1709842835.770009356] [minimal_subscriber]: listener_callback() executing
+[INFO] [1709842835.770730133] [minimal_subscriber]: Auto status: False
+[INFO] [1709842835.969984227] [minimal_subscriber]: listener_callback() executing
+[INFO] [1709842835.970704161] [minimal_subscriber]: Auto status: False
+[INFO] [1709842836.165423573] [minimal_subscriber]: listener_callback() executing
+[INFO] [1709842836.166114373] [minimal_subscriber]: Auto status: False
+[INFO] [1709842836.367544882] [minimal_subscriber]: listener_callback() executing
+[INFO] [1709842836.368234099] [minimal_subscriber]: Auto status: False
+[INFO] [1709842836.569830981] [minimal_subscriber]: listener_callback() executing
+[INFO] [1709842836.570528613] [minimal_subscriber]: Auto status: False
+[INFO] [1709842836.774404335] [minimal_subscriber]: listener_callback() executing
+[INFO] [1709842836.775094313] [minimal_subscriber]: Auto status: False
+[INFO] [1709842836.963473052] [minimal_subscriber]: listener_callback() executing
+[INFO] [1709842836.964143003] [minimal_subscriber]: Auto status: False
+[INFO] [1709842837.163204775] [minimal_subscriber]: listener_callback() executing
+[INFO] [1709842837.163894012] [minimal_subscriber]: Auto status: False
+[INFO] [1709842837.363206786] [minimal_subscriber]: listener_callback() executing
+[INFO] [1709842837.363900993] [minimal_subscriber]: Auto status: False
+[INFO] [1709842837.563628498] [minimal_subscriber]: listener_callback() executing
+[INFO] [1709842837.564328435] [minimal_subscriber]: Auto status: False
+[INFO] [1709842837.764520043] [minimal_subscriber]: listener_callback() executing
+[INFO] [1709842837.765222705] [minimal_subscriber]: Auto status: False
+[INFO] [1709842837.963390194] [minimal_subscriber]: listener_callback() executing
+[INFO] [1709842837.964076275] [minimal_subscriber]: Auto status: False
+[INFO] [1709842838.170985503] [minimal_subscriber]: listener_callback() executing
+[INFO] [1709842838.171756114] [minimal_subscriber]: Auto status: False
+[INFO] [1709842838.368544929] [minimal_subscriber]: listener_callback() executing
+[INFO] [1709842838.369281304] [minimal_subscriber]: Auto status: False
+[INFO] [1709842838.572842714] [minimal_subscriber]: listener_callback() executing
+[INFO] [1709842838.573508196] [minimal_subscriber]: Auto status: False
+[INFO] [1709842838.765866354] [minimal_subscriber]: listener_callback() executing
+[INFO] [1709842838.766875703] [minimal_subscriber]: Auto status: False
+[INFO] [1709842838.968592912] [minimal_subscriber]: listener_callback() executing
+[INFO] [1709842838.969564099] [minimal_subscriber]: Auto status: False
+[INFO] [1709842839.163156309] [minimal_subscriber]: listener_callback() executing
+[INFO] [1709842839.164151372] [minimal_subscriber]: Auto status: False
+[INFO] [1709842839.363236317] [minimal_subscriber]: listener_callback() executing
+[INFO] [1709842839.364208096] [minimal_subscriber]: Auto status: False
+[INFO] [1709842839.563012393] [minimal_subscriber]: listener_callback() executing
+[INFO] [1709842839.563988440] [minimal_subscriber]: Auto status: False
+[INFO] [1709842839.768608892] [minimal_subscriber]: listener_callback() executing
+[INFO] [1709842839.769568608] [minimal_subscriber]: Auto status: False
+[INFO] [1709842839.968767909] [minimal_subscriber]: listener_callback() executing
+[INFO] [1709842839.969749796] [minimal_subscriber]: Auto status: False
+[INFO] [1709842840.164100454] [minimal_subscriber]: listener_callback() executing
+[INFO] [1709842840.165058066] [minimal_subscriber]: Auto status: False

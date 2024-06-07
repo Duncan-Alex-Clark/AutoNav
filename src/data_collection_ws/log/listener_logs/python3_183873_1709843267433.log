@@ -1,0 +1,27 @@
+[DEBUG] [1709843267.596718734] [minimal_subscriber]: Listener object has been instantiated after 0.1408693790435791 seconds
+[INFO] [1709843270.006498535] [minimal_subscriber]: listener_callback() executing
+[INFO] [1709843270.006967408] [minimal_subscriber]: Auto status: False
+[INFO] [1709843270.203619960] [minimal_subscriber]: listener_callback() executing
+[INFO] [1709843270.204290322] [minimal_subscriber]: Auto status: False
+[INFO] [1709843270.399500760] [minimal_subscriber]: listener_callback() executing
+[INFO] [1709843270.400199997] [minimal_subscriber]: Auto status: False
+[INFO] [1709843270.609801146] [minimal_subscriber]: listener_callback() executing
+[INFO] [1709843270.610522374] [minimal_subscriber]: Auto status: False
+[INFO] [1709843270.797052193] [minimal_subscriber]: listener_callback() executing
+[INFO] [1709843270.797731483] [minimal_subscriber]: Auto status: False
+[INFO] [1709843271.000244774] [minimal_subscriber]: listener_callback() executing
+[INFO] [1709843271.000917070] [minimal_subscriber]: Auto status: False
+[INFO] [1709843271.202757083] [minimal_subscriber]: listener_callback() executing
+[INFO] [1709843271.203419050] [minimal_subscriber]: Auto status: False
+[INFO] [1709843271.406859555] [minimal_subscriber]: listener_callback() executing
+[INFO] [1709843271.407593928] [minimal_subscriber]: Auto status: False
+[INFO] [1709843271.597503041] [minimal_subscriber]: listener_callback() executing
+[INFO] [1709843271.598165619] [minimal_subscriber]: Auto status: False
+[INFO] [1709843271.797449177] [minimal_subscriber]: listener_callback() executing
+[INFO] [1709843271.798117817] [minimal_subscriber]: Auto status: False
+[INFO] [1709843272.005361336] [minimal_subscriber]: listener_callback() executing
+[INFO] [1709843272.006036707] [minimal_subscriber]: Auto status: False
+[INFO] [1709843272.197534542] [minimal_subscriber]: listener_callback() executing
+[INFO] [1709843272.198197431] [minimal_subscriber]: Auto status: False
+[INFO] [1709843272.405633671] [minimal_subscriber]: listener_callback() executing
+[INFO] [1709843272.406364387] [minimal_subscriber]: Auto status: False

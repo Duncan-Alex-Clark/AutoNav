@@ -1,0 +1,6 @@
+{
+  "package_name": "data_interface",
+  "non_idl_tuples": [
+    "/home/littleblue/IGVCDev/src/motorControl/rpi/controller_ws/src/data_interface:msg/Data.msg"
+  ]
+}
