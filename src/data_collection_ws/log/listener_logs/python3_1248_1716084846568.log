@@ -1,0 +1,968 @@
+[DEBUG] [1716084847.052894388] [minimal_subscriber]: Listener object has been instantiated after 0.38883256912231445 seconds
+[INFO] [1716084856.176050897] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084856.177929413] [minimal_subscriber]: Auto status: False
+[INFO] [1716084856.275254998] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084856.277131018] [minimal_subscriber]: Auto status: False
+[INFO] [1716084856.322443516] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084856.326223045] [minimal_subscriber]: Auto status: False
+[INFO] [1716084856.372710764] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084856.374377335] [minimal_subscriber]: Auto status: False
+[INFO] [1716084856.421259471] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084856.425279108] [minimal_subscriber]: Auto status: False
+[INFO] [1716084856.522410507] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084856.524829880] [minimal_subscriber]: Auto status: False
+[INFO] [1716084856.624752413] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084856.627236813] [minimal_subscriber]: Auto status: False
+[INFO] [1716084856.669378352] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084856.671436493] [minimal_subscriber]: Auto status: False
+[INFO] [1716084856.719767430] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084856.722673096] [minimal_subscriber]: Auto status: False
+[INFO] [1716084856.770705172] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084856.772713198] [minimal_subscriber]: Auto status: False
+[INFO] [1716084856.821949937] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084856.823596954] [minimal_subscriber]: Auto status: False
+[INFO] [1716084856.871244181] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084856.872900223] [minimal_subscriber]: Auto status: False
+[INFO] [1716084856.921530502] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084856.923384666] [minimal_subscriber]: Auto status: False
+[INFO] [1716084857.022643201] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084857.024635866] [minimal_subscriber]: Auto status: False
+[INFO] [1716084857.069812966] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084857.071873891] [minimal_subscriber]: Auto status: False
+[INFO] [1716084857.120626383] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084857.122593895] [minimal_subscriber]: Auto status: False
+[INFO] [1716084857.171112489] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084857.172958012] [minimal_subscriber]: Auto status: False
+[INFO] [1716084857.271674123] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084857.273362103] [minimal_subscriber]: Auto status: False
+[INFO] [1716084857.372630622] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084857.374709276] [minimal_subscriber]: Auto status: False
+[INFO] [1716084857.427650916] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084857.429261932] [minimal_subscriber]: Auto status: False
+[INFO] [1716084857.471876069] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084857.474322451] [minimal_subscriber]: Auto status: False
+[INFO] [1716084857.523117953] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084857.525325892] [minimal_subscriber]: Auto status: False
+[INFO] [1716084857.572376228] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084857.578182345] [minimal_subscriber]: Auto status: False
+[INFO] [1716084857.621313273] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084857.622994116] [minimal_subscriber]: Auto status: False
+[INFO] [1716084857.671338974] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084857.673405243] [minimal_subscriber]: Auto status: False
+[INFO] [1716084857.772421879] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084857.774508373] [minimal_subscriber]: Auto status: False
+[INFO] [1716084857.872910422] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084857.875040469] [minimal_subscriber]: Auto status: False
+[INFO] [1716084857.921508699] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084857.923729183] [minimal_subscriber]: Auto status: False
+[INFO] [1716084857.971095405] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084857.972855900] [minimal_subscriber]: Auto status: False
+[INFO] [1716084858.023200240] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084858.025169096] [minimal_subscriber]: Auto status: False
+[INFO] [1716084858.071530217] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084858.073991191] [minimal_subscriber]: Auto status: False
+[INFO] [1716084858.122507321] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084858.124338827] [minimal_subscriber]: Auto status: False
+[INFO] [1716084858.171870625] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084858.173692307] [minimal_subscriber]: Auto status: False
+[INFO] [1716084858.272538279] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084858.274874320] [minimal_subscriber]: Auto status: False
+[INFO] [1716084858.322363172] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084858.324213495] [minimal_subscriber]: Auto status: False
+[INFO] [1716084858.371857873] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084858.374132376] [minimal_subscriber]: Auto status: False
+[INFO] [1716084858.420411509] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084858.422252680] [minimal_subscriber]: Auto status: False
+[INFO] [1716084858.472936779] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084858.475113516] [minimal_subscriber]: Auto status: False
+[INFO] [1716084858.519596985] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084858.522054887] [minimal_subscriber]: Auto status: False
+[INFO] [1716084858.573228736] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084858.575487462] [minimal_subscriber]: Auto status: False
+[INFO] [1716084858.620909500] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084858.623682489] [minimal_subscriber]: Auto status: False
+[INFO] [1716084858.672736243] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084858.674797839] [minimal_subscriber]: Auto status: False
+[INFO] [1716084858.721743690] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084858.723530811] [minimal_subscriber]: Auto status: False
+[INFO] [1716084858.771732590] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084858.773835117] [minimal_subscriber]: Auto status: False
+[INFO] [1716084858.820532413] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084858.822902567] [minimal_subscriber]: Auto status: False
+[INFO] [1716084858.871551247] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084858.875572579] [minimal_subscriber]: Auto status: False
+[INFO] [1716084858.920596552] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084858.922728584] [minimal_subscriber]: Auto status: False
+[INFO] [1716084858.973292357] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084858.975156089] [minimal_subscriber]: Auto status: False
+[INFO] [1716084859.020591184] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084859.022796115] [minimal_subscriber]: Auto status: False
+[INFO] [1716084859.121087503] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084859.122979524] [minimal_subscriber]: Auto status: False
+[INFO] [1716084859.222064612] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084859.223997371] [minimal_subscriber]: Auto status: False
+[INFO] [1716084859.321202662] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084859.323324965] [minimal_subscriber]: Auto status: False
+[INFO] [1716084859.371665951] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084859.373670777] [minimal_subscriber]: Auto status: False
+[INFO] [1716084859.421839787] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084859.424192500] [minimal_subscriber]: Auto status: False
+[INFO] [1716084859.472197087] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084859.474072499] [minimal_subscriber]: Auto status: False
+[INFO] [1716084859.521790001] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084859.524588175] [minimal_subscriber]: Auto status: False
+[INFO] [1716084859.571979518] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084859.573843122] [minimal_subscriber]: Auto status: False
+[INFO] [1716084859.619692540] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084859.622135689] [minimal_subscriber]: Auto status: False
+[INFO] [1716084859.672698823] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084859.674527321] [minimal_subscriber]: Auto status: False
+[INFO] [1716084859.772620556] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084859.775234657] [minimal_subscriber]: Auto status: False
+[INFO] [1716084859.821017000] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084859.823127783] [minimal_subscriber]: Auto status: False
+[INFO] [1716084859.923179314] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084859.925863050] [minimal_subscriber]: Auto status: False
+[INFO] [1716084859.972694240] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084859.974274023] [minimal_subscriber]: Auto status: False
+[INFO] [1716084860.020486882] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084860.022483835] [minimal_subscriber]: Auto status: False
+[INFO] [1716084860.122619242] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084860.125474186] [minimal_subscriber]: Auto status: False
+[INFO] [1716084860.223590334] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084860.225517941] [minimal_subscriber]: Auto status: False
+[INFO] [1716084860.270563387] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084860.273282101] [minimal_subscriber]: Auto status: False
+[INFO] [1716084860.320557791] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084860.322296013] [minimal_subscriber]: Auto status: False
+[INFO] [1716084860.370397916] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084860.372113897] [minimal_subscriber]: Auto status: False
+[INFO] [1716084860.423155100] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084860.424837031] [minimal_subscriber]: Auto status: False
+[INFO] [1716084860.469600961] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084860.472435264] [minimal_subscriber]: Auto status: False
+[INFO] [1716084860.521842313] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084860.523866276] [minimal_subscriber]: Auto status: False
+[INFO] [1716084860.569488484] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084860.571062155] [minimal_subscriber]: Auto status: False
+[INFO] [1716084860.620803779] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084860.622501872] [minimal_subscriber]: Auto status: False
+[INFO] [1716084860.670426903] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084860.672135363] [minimal_subscriber]: Auto status: False
+[INFO] [1716084860.722175370] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084860.724007164] [minimal_subscriber]: Auto status: False
+[INFO] [1716084860.769549752] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084860.771577715] [minimal_subscriber]: Auto status: False
+[INFO] [1716084860.822330585] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084860.824212110] [minimal_subscriber]: Auto status: False
+[INFO] [1716084860.870246304] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084860.872901687] [minimal_subscriber]: Auto status: False
+[INFO] [1716084860.919524836] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084860.921125804] [minimal_subscriber]: Auto status: False
+[INFO] [1716084860.969840758] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084860.971558979] [minimal_subscriber]: Auto status: False
+[INFO] [1716084861.021180727] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084861.023429020] [minimal_subscriber]: Auto status: False
+[INFO] [1716084861.070770921] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084861.072778883] [minimal_subscriber]: Auto status: False
+[INFO] [1716084861.120234357] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084861.122076487] [minimal_subscriber]: Auto status: False
+[INFO] [1716084861.172517952] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084861.174857097] [minimal_subscriber]: Auto status: False
+[INFO] [1716084861.221728064] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084861.223486447] [minimal_subscriber]: Auto status: False
+[INFO] [1716084861.272572331] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084861.274632263] [minimal_subscriber]: Auto status: False
+[INFO] [1716084861.324229337] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084861.326519968] [minimal_subscriber]: Auto status: False
+[INFO] [1716084861.370100772] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084861.372051100] [minimal_subscriber]: Auto status: False
+[INFO] [1716084861.423479712] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084861.425312722] [minimal_subscriber]: Auto status: False
+[INFO] [1716084861.472794374] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084861.475968308] [minimal_subscriber]: Auto status: False
+[INFO] [1716084861.522542719] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084861.524335087] [minimal_subscriber]: Auto status: False
+[INFO] [1716084861.571037696] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084861.572936213] [minimal_subscriber]: Auto status: False
+[INFO] [1716084861.621622014] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084861.624053291] [minimal_subscriber]: Auto status: False
+[INFO] [1716084861.674007981] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084861.675742235] [minimal_subscriber]: Auto status: False
+[INFO] [1716084861.772643193] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084861.774641746] [minimal_subscriber]: Auto status: False
+[INFO] [1716084861.870333754] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084861.872191373] [minimal_subscriber]: Auto status: False
+[INFO] [1716084861.925786547] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084861.927712553] [minimal_subscriber]: Auto status: False
+[INFO] [1716084861.969793226] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084861.971574938] [minimal_subscriber]: Auto status: False
+[INFO] [1716084862.019064974] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084862.020725912] [minimal_subscriber]: Auto status: False
+[INFO] [1716084862.070457776] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084862.072184542] [minimal_subscriber]: Auto status: False
+[INFO] [1716084862.119764118] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084862.122300871] [minimal_subscriber]: Auto status: False
+[INFO] [1716084862.169678614] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084862.171364738] [minimal_subscriber]: Auto status: False
+[INFO] [1716084862.273455656] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084862.275872085] [minimal_subscriber]: Auto status: False
+[INFO] [1716084862.319458297] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084862.321436082] [minimal_subscriber]: Auto status: False
+[INFO] [1716084862.377044338] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084862.379967797] [minimal_subscriber]: Auto status: False
+[INFO] [1716084862.420722650] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084862.423615932] [minimal_subscriber]: Auto status: False
+[INFO] [1716084862.520933868] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084862.523639174] [minimal_subscriber]: Auto status: False
+[INFO] [1716084862.572126758] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084862.573957784] [minimal_subscriber]: Auto status: False
+[INFO] [1716084862.622524892] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084862.624968458] [minimal_subscriber]: Auto status: False
+[INFO] [1716084862.671965000] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084862.674041093] [minimal_subscriber]: Auto status: False
+[INFO] [1716084862.719869326] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084862.721971692] [minimal_subscriber]: Auto status: False
+[INFO] [1716084862.771704420] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084862.773395952] [minimal_subscriber]: Auto status: False
+[INFO] [1716084862.873734792] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084862.875780036] [minimal_subscriber]: Auto status: False
+[INFO] [1716084862.973010224] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084862.975271254] [minimal_subscriber]: Auto status: False
+[INFO] [1716084863.072844913] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084863.074628353] [minimal_subscriber]: Auto status: False
+[INFO] [1716084863.171486013] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084863.173531065] [minimal_subscriber]: Auto status: False
+[INFO] [1716084863.269676436] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084863.271554089] [minimal_subscriber]: Auto status: False
+[INFO] [1716084863.321594159] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084863.324076510] [minimal_subscriber]: Auto status: False
+[INFO] [1716084863.371954883] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084863.373565356] [minimal_subscriber]: Auto status: False
+[INFO] [1716084863.421530804] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084863.423724023] [minimal_subscriber]: Auto status: False
+[INFO] [1716084863.470773783] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084863.473263367] [minimal_subscriber]: Auto status: False
+[INFO] [1716084863.522167898] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084863.524427327] [minimal_subscriber]: Auto status: False
+[INFO] [1716084863.569269116] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084863.571261973] [minimal_subscriber]: Auto status: False
+[INFO] [1716084863.623727560] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084863.625702465] [minimal_subscriber]: Auto status: False
+[INFO] [1716084863.670855404] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084863.672617723] [minimal_subscriber]: Auto status: False
+[INFO] [1716084863.720168337] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084863.722183820] [minimal_subscriber]: Auto status: False
+[INFO] [1716084863.769633405] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084863.771317609] [minimal_subscriber]: Auto status: False
+[INFO] [1716084863.871382740] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084863.873360941] [minimal_subscriber]: Auto status: False
+[INFO] [1716084863.921332887] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084863.923442773] [minimal_subscriber]: Auto status: False
+[INFO] [1716084864.023457406] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084864.025277360] [minimal_subscriber]: Auto status: False
+[INFO] [1716084864.070687494] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084864.072294127] [minimal_subscriber]: Auto status: False
+[INFO] [1716084864.122248113] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084864.124224682] [minimal_subscriber]: Auto status: False
+[INFO] [1716084864.169527867] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084864.171217799] [minimal_subscriber]: Auto status: False
+[INFO] [1716084864.272981983] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084864.276842252] [minimal_subscriber]: Auto status: False
+[INFO] [1716084864.324157624] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084864.325877509] [minimal_subscriber]: Auto status: False
+[INFO] [1716084864.370257581] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084864.372443503] [minimal_subscriber]: Auto status: False
+[INFO] [1716084864.421078998] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084864.423560517] [minimal_subscriber]: Auto status: False
+[INFO] [1716084864.471190367] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084864.473537577] [minimal_subscriber]: Auto status: False
+[INFO] [1716084864.522651781] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084864.524462743] [minimal_subscriber]: Auto status: False
+[INFO] [1716084864.569887309] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084864.572033102] [minimal_subscriber]: Auto status: False
+[INFO] [1716084864.622914618] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084864.624494849] [minimal_subscriber]: Auto status: False
+[INFO] [1716084864.671142670] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084864.673069605] [minimal_subscriber]: Auto status: False
+[INFO] [1716084864.722969893] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084864.724580621] [minimal_subscriber]: Auto status: False
+[INFO] [1716084864.770690051] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084864.772848292] [minimal_subscriber]: Auto status: False
+[INFO] [1716084864.821746262] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084864.824305609] [minimal_subscriber]: Auto status: False
+[INFO] [1716084864.870603591] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084864.873670929] [minimal_subscriber]: Auto status: False
+[INFO] [1716084864.998619834] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084865.001150059] [minimal_subscriber]: Auto status: True
+[INFO] [1716084865.127856386] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084865.129884733] [minimal_subscriber]: Auto status: True
+[INFO] [1716084865.289869771] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084865.291613113] [minimal_subscriber]: Auto status: True
+[INFO] [1716084865.537629819] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084865.539191266] [minimal_subscriber]: Auto status: True
+[INFO] [1716084865.675994334] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084865.677735468] [minimal_subscriber]: Auto status: True
+[INFO] [1716084865.825406033] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084865.826988088] [minimal_subscriber]: Auto status: True
+[INFO] [1716084865.969014015] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084865.970588645] [minimal_subscriber]: Auto status: True
+[INFO] [1716084866.174375488] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084866.177342342] [minimal_subscriber]: Auto status: True
+[INFO] [1716084866.391334859] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084866.393212895] [minimal_subscriber]: Auto status: True
+[INFO] [1716084866.553812296] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084866.556593861] [minimal_subscriber]: Auto status: True
+[INFO] [1716084866.719070817] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084866.722088073] [minimal_subscriber]: Auto status: True
+[INFO] [1716084866.881209039] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084866.883679198] [minimal_subscriber]: Auto status: True
+[INFO] [1716084867.036853497] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084867.039613781] [minimal_subscriber]: Auto status: True
+[INFO] [1716084867.255627029] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084867.257584333] [minimal_subscriber]: Auto status: True
+[INFO] [1716084867.393715627] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084867.395469626] [minimal_subscriber]: Auto status: True
+[INFO] [1716084867.655512850] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084867.657215167] [minimal_subscriber]: Auto status: True
+[INFO] [1716084867.836434699] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084867.838701201] [minimal_subscriber]: Auto status: True
+[INFO] [1716084868.005662711] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084868.007414822] [minimal_subscriber]: Auto status: True
+[INFO] [1716084868.249645119] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084868.251369612] [minimal_subscriber]: Auto status: True
+[INFO] [1716084868.402396039] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084868.404137941] [minimal_subscriber]: Auto status: True
+[INFO] [1716084868.669945648] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084868.672326907] [minimal_subscriber]: Auto status: True
+[INFO] [1716084868.880629889] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084868.882317613] [minimal_subscriber]: Auto status: True
+[INFO] [1716084869.030408196] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084869.032606087] [minimal_subscriber]: Auto status: True
+[INFO] [1716084869.191193781] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084869.193418969] [minimal_subscriber]: Auto status: True
+[INFO] [1716084869.350167189] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084869.353514635] [minimal_subscriber]: Auto status: True
+[INFO] [1716084869.523266318] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084869.524761361] [minimal_subscriber]: Auto status: True
+[INFO] [1716084869.799510910] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084869.801019713] [minimal_subscriber]: Auto status: True
+[INFO] [1716084869.990759014] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084869.992581784] [minimal_subscriber]: Auto status: True
+[INFO] [1716084870.159162125] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084870.160700914] [minimal_subscriber]: Auto status: True
+[INFO] [1716084870.339823194] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084870.341576649] [minimal_subscriber]: Auto status: True
+[INFO] [1716084870.518714968] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084870.521750016] [minimal_subscriber]: Auto status: True
+[INFO] [1716084870.678713830] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084870.681930902] [minimal_subscriber]: Auto status: True
+[INFO] [1716084870.837817675] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084870.839495510] [minimal_subscriber]: Auto status: True
+[INFO] [1716084871.068241970] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084871.070247244] [minimal_subscriber]: Auto status: True
+[INFO] [1716084871.216728507] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084871.218312642] [minimal_subscriber]: Auto status: True
+[INFO] [1716084871.421975895] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084871.423591488] [minimal_subscriber]: Auto status: True
+[INFO] [1716084871.573118840] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084871.574682526] [minimal_subscriber]: Auto status: True
+[INFO] [1716084871.757050392] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084871.758574396] [minimal_subscriber]: Auto status: True
+[INFO] [1716084871.917545980] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084871.919317323] [minimal_subscriber]: Auto status: True
+[INFO] [1716084872.082761299] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084872.084474816] [minimal_subscriber]: Auto status: True
+[INFO] [1716084872.244499183] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084872.246069910] [minimal_subscriber]: Auto status: True
+[INFO] [1716084872.390656976] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084872.394730534] [minimal_subscriber]: Auto status: True
+[INFO] [1716084872.576502309] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084872.578688296] [minimal_subscriber]: Auto status: True
+[INFO] [1716084872.696660439] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084872.698261087] [minimal_subscriber]: Auto status: True
+[INFO] [1716084872.817943611] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084872.819600357] [minimal_subscriber]: Auto status: True
+[INFO] [1716084873.122974038] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084873.124561598] [minimal_subscriber]: Auto status: True
+[INFO] [1716084873.258557756] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084873.260224551] [minimal_subscriber]: Auto status: True
+[INFO] [1716084873.417282385] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084873.419794337] [minimal_subscriber]: Auto status: True
+[INFO] [1716084873.588813156] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084873.590566387] [minimal_subscriber]: Auto status: True
+[INFO] [1716084873.738459393] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084873.740823307] [minimal_subscriber]: Auto status: True
+[INFO] [1716084873.856336940] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084873.857963253] [minimal_subscriber]: Auto status: True
+[INFO] [1716084874.015273098] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084874.016853649] [minimal_subscriber]: Auto status: True
+[INFO] [1716084874.188190939] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084874.190332380] [minimal_subscriber]: Auto status: True
+[INFO] [1716084874.310538991] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084874.312240476] [minimal_subscriber]: Auto status: True
+[INFO] [1716084874.447518484] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084874.449086362] [minimal_subscriber]: Auto status: True
+[INFO] [1716084874.611406768] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084874.612918164] [minimal_subscriber]: Auto status: True
+[INFO] [1716084874.678000253] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084874.679577700] [minimal_subscriber]: Auto status: True
+[INFO] [1716084874.860188943] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084874.861864954] [minimal_subscriber]: Auto status: True
+[INFO] [1716084875.021788292] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084875.023373643] [minimal_subscriber]: Auto status: True
+[INFO] [1716084875.159442055] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084875.161163028] [minimal_subscriber]: Auto status: True
+[INFO] [1716084875.352486592] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084875.353988835] [minimal_subscriber]: Auto status: True
+[INFO] [1716084875.473780580] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084875.475345323] [minimal_subscriber]: Auto status: True
+[INFO] [1716084875.597775106] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084875.599405419] [minimal_subscriber]: Auto status: True
+[INFO] [1716084875.730652078] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084875.732213940] [minimal_subscriber]: Auto status: True
+[INFO] [1716084875.855088512] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084875.856651526] [minimal_subscriber]: Auto status: True
+[INFO] [1716084875.987277613] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084875.988846515] [minimal_subscriber]: Auto status: True
+[INFO] [1716084876.088922848] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084876.090516263] [minimal_subscriber]: Auto status: True
+[INFO] [1716084876.281070096] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084876.282651735] [minimal_subscriber]: Auto status: True
+[INFO] [1716084876.502625545] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084876.504262002] [minimal_subscriber]: Auto status: True
+[INFO] [1716084876.691998237] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084876.694003383] [minimal_subscriber]: Auto status: True
+[INFO] [1716084876.827037674] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084876.829022532] [minimal_subscriber]: Auto status: True
+[INFO] [1716084876.952700979] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084876.955535058] [minimal_subscriber]: Auto status: True
+[INFO] [1716084877.077700894] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084877.080304243] [minimal_subscriber]: Auto status: True
+[INFO] [1716084877.216456946] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084877.219162699] [minimal_subscriber]: Auto status: True
+[INFO] [1716084877.436785716] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084877.439010295] [minimal_subscriber]: Auto status: True
+[INFO] [1716084877.637524550] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084877.654201266] [minimal_subscriber]: Auto status: True
+[INFO] [1716084877.836964702] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084877.841182235] [minimal_subscriber]: Auto status: True
+[INFO] [1716084877.977165555] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084877.978757146] [minimal_subscriber]: Auto status: True
+[INFO] [1716084878.126000684] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084878.128169485] [minimal_subscriber]: Auto status: True
+[INFO] [1716084878.275411198] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084878.276945283] [minimal_subscriber]: Auto status: True
+[INFO] [1716084878.410594482] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084878.412475558] [minimal_subscriber]: Auto status: True
+[INFO] [1716084878.539412072] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084878.541271259] [minimal_subscriber]: Auto status: True
+[INFO] [1716084878.705445540] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084878.707242773] [minimal_subscriber]: Auto status: True
+[INFO] [1716084878.869424741] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084878.871382589] [minimal_subscriber]: Auto status: True
+[INFO] [1716084879.032565215] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084879.034348048] [minimal_subscriber]: Auto status: True
+[INFO] [1716084879.194673996] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084879.196245842] [minimal_subscriber]: Auto status: True
+[INFO] [1716084879.408978207] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084879.411047516] [minimal_subscriber]: Auto status: True
+[INFO] [1716084879.571928689] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084879.573510040] [minimal_subscriber]: Auto status: True
+[INFO] [1716084879.718192982] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084879.720053514] [minimal_subscriber]: Auto status: True
+[INFO] [1716084879.859786346] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084879.861309550] [minimal_subscriber]: Auto status: True
+[INFO] [1716084880.001507299] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084880.003352054] [minimal_subscriber]: Auto status: True
+[INFO] [1716084880.145248631] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084880.146795261] [minimal_subscriber]: Auto status: True
+[INFO] [1716084880.326553697] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084880.328350610] [minimal_subscriber]: Auto status: True
+[INFO] [1716084880.495541314] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084880.497018917] [minimal_subscriber]: Auto status: True
+[INFO] [1716084880.681260275] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084880.683488759] [minimal_subscriber]: Auto status: True
+[INFO] [1716084880.878519913] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084880.880050221] [minimal_subscriber]: Auto status: True
+[INFO] [1716084881.056630755] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084881.058476694] [minimal_subscriber]: Auto status: True
+[INFO] [1716084881.248045171] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084881.249976490] [minimal_subscriber]: Auto status: True
+[INFO] [1716084881.416238545] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084881.417843193] [minimal_subscriber]: Auto status: True
+[INFO] [1716084881.710187995] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084881.714648419] [minimal_subscriber]: Auto status: True
+[INFO] [1716084881.864890651] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084881.866608360] [minimal_subscriber]: Auto status: True
+[INFO] [1716084882.115518445] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084882.123859875] [minimal_subscriber]: Auto status: True
+[INFO] [1716084882.254035254] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084882.256211096] [minimal_subscriber]: Auto status: True
+[INFO] [1716084882.409035331] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084882.411604759] [minimal_subscriber]: Auto status: True
+[INFO] [1716084882.626119155] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084882.630399699] [minimal_subscriber]: Auto status: True
+[INFO] [1716084882.847464515] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084882.851010594] [minimal_subscriber]: Auto status: True
+[INFO] [1716084882.972131838] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084882.974661008] [minimal_subscriber]: Auto status: True
+[INFO] [1716084883.112355924] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084883.114006271] [minimal_subscriber]: Auto status: True
+[INFO] [1716084883.287589006] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084883.289699021] [minimal_subscriber]: Auto status: True
+[INFO] [1716084883.436294497] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084883.438185174] [minimal_subscriber]: Auto status: True
+[INFO] [1716084883.590609391] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084883.596996814] [minimal_subscriber]: Auto status: True
+[INFO] [1716084883.797063874] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084883.800988466] [minimal_subscriber]: Auto status: True
+[INFO] [1716084883.999021547] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084884.008249769] [minimal_subscriber]: Auto status: True
+[INFO] [1716084884.181698419] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084884.183857076] [minimal_subscriber]: Auto status: True
+[INFO] [1716084884.336419604] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084884.338111040] [minimal_subscriber]: Auto status: True
+[INFO] [1716084884.476836754] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084884.478691366] [minimal_subscriber]: Auto status: True
+[INFO] [1716084884.653620945] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084884.655264475] [minimal_subscriber]: Auto status: True
+[INFO] [1716084884.849418054] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084884.851872084] [minimal_subscriber]: Auto status: True
+[INFO] [1716084884.979777889] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084884.982255569] [minimal_subscriber]: Auto status: True
+[INFO] [1716084885.165393421] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084885.167920478] [minimal_subscriber]: Auto status: True
+[INFO] [1716084885.359257963] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084885.361165824] [minimal_subscriber]: Auto status: True
+[INFO] [1716084885.543435478] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084885.545657529] [minimal_subscriber]: Auto status: True
+[INFO] [1716084885.695588547] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084885.698510566] [minimal_subscriber]: Auto status: True
+[INFO] [1716084885.846162346] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084885.849140815] [minimal_subscriber]: Auto status: True
+[INFO] [1716084886.027601146] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084886.029352552] [minimal_subscriber]: Auto status: True
+[INFO] [1716084886.311503521] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084886.313245999] [minimal_subscriber]: Auto status: True
+[INFO] [1716084886.498699475] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084886.500277306] [minimal_subscriber]: Auto status: True
+[INFO] [1716084886.660230918] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084886.663794630] [minimal_subscriber]: Auto status: True
+[INFO] [1716084886.851267333] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084886.854579001] [minimal_subscriber]: Auto status: True
+[INFO] [1716084887.052229505] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084887.056915475] [minimal_subscriber]: Auto status: True
+[INFO] [1716084887.259212236] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084887.262898065] [minimal_subscriber]: Auto status: True
+[INFO] [1716084887.340899582] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084887.349237397] [minimal_subscriber]: Auto status: True
+[INFO] [1716084887.468235058] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084887.469765143] [minimal_subscriber]: Auto status: True
+[INFO] [1716084887.670178522] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084887.678376490] [minimal_subscriber]: Auto status: True
+[INFO] [1716084887.853563810] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084887.855235501] [minimal_subscriber]: Auto status: True
+[INFO] [1716084888.016038591] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084888.020069587] [minimal_subscriber]: Auto status: True
+[INFO] [1716084888.208670949] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084888.210170728] [minimal_subscriber]: Auto status: True
+[INFO] [1716084888.368064088] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084888.369838471] [minimal_subscriber]: Auto status: True
+[INFO] [1716084888.495929891] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084888.497707059] [minimal_subscriber]: Auto status: True
+[INFO] [1716084888.688347104] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084888.690266710] [minimal_subscriber]: Auto status: True
+[INFO] [1716084888.866284083] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084888.868569305] [minimal_subscriber]: Auto status: True
+[INFO] [1716084889.028030031] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084889.030086955] [minimal_subscriber]: Auto status: True
+[INFO] [1716084889.151638075] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084889.156703550] [minimal_subscriber]: Auto status: True
+[INFO] [1716084889.283997648] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084889.288272816] [minimal_subscriber]: Auto status: True
+[INFO] [1716084889.431592113] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084889.434259785] [minimal_subscriber]: Auto status: True
+[INFO] [1716084889.557528742] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084889.559441980] [minimal_subscriber]: Auto status: True
+[INFO] [1716084889.730700003] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084889.734034040] [minimal_subscriber]: Auto status: True
+[INFO] [1716084889.921026434] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084889.924666789] [minimal_subscriber]: Auto status: True
+[INFO] [1716084890.109690102] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084890.114367368] [minimal_subscriber]: Auto status: True
+[INFO] [1716084890.312104948] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084890.313713404] [minimal_subscriber]: Auto status: True
+[INFO] [1716084890.459117370] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084890.463643781] [minimal_subscriber]: Auto status: True
+[INFO] [1716084890.587756872] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084890.590550278] [minimal_subscriber]: Auto status: True
+[INFO] [1716084890.731907503] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084890.734202006] [minimal_subscriber]: Auto status: True
+[INFO] [1716084890.893574343] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084890.896102329] [minimal_subscriber]: Auto status: True
+[INFO] [1716084891.078226472] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084891.080439979] [minimal_subscriber]: Auto status: True
+[INFO] [1716084891.248986008] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084891.250823499] [minimal_subscriber]: Auto status: True
+[INFO] [1716084891.414161742] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084891.418524818] [minimal_subscriber]: Auto status: True
+[INFO] [1716084891.599193024] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084891.610172364] [minimal_subscriber]: Auto status: True
+[INFO] [1716084891.797057105] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084891.798732604] [minimal_subscriber]: Auto status: True
+[INFO] [1716084891.984548945] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084891.986163993] [minimal_subscriber]: Auto status: True
+[INFO] [1716084892.155506922] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084892.157182293] [minimal_subscriber]: Auto status: True
+[INFO] [1716084892.268988304] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084892.270582808] [minimal_subscriber]: Auto status: True
+[INFO] [1716084892.426085371] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084892.427805801] [minimal_subscriber]: Auto status: True
+[INFO] [1716084892.562115253] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084892.564314872] [minimal_subscriber]: Auto status: True
+[INFO] [1716084892.716872024] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084892.719980707] [minimal_subscriber]: Auto status: True
+[INFO] [1716084892.877523523] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084892.879040135] [minimal_subscriber]: Auto status: True
+[INFO] [1716084893.012156894] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084893.014201081] [minimal_subscriber]: Auto status: True
+[INFO] [1716084893.225417794] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084893.226916453] [minimal_subscriber]: Auto status: True
+[INFO] [1716084893.380670523] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084893.382203296] [minimal_subscriber]: Auto status: True
+[INFO] [1716084893.505062282] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084893.506727957] [minimal_subscriber]: Auto status: True
+[INFO] [1716084893.634139724] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084893.635879290] [minimal_subscriber]: Auto status: True
+[INFO] [1716084893.767031257] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084893.768577022] [minimal_subscriber]: Auto status: True
+[INFO] [1716084893.999457274] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084894.001087299] [minimal_subscriber]: Auto status: True
+[INFO] [1716084894.168119500] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084894.169751701] [minimal_subscriber]: Auto status: True
+[INFO] [1716084894.332943218] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084894.334545690] [minimal_subscriber]: Auto status: True
+[INFO] [1716084894.494772082] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084894.496353721] [minimal_subscriber]: Auto status: True
+[INFO] [1716084894.746773922] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084894.748358601] [minimal_subscriber]: Auto status: True
+[INFO] [1716084894.999242662] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084895.001542829] [minimal_subscriber]: Auto status: True
+[INFO] [1716084895.214263577] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084895.216236946] [minimal_subscriber]: Auto status: True
+[INFO] [1716084895.384959271] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084895.386633810] [minimal_subscriber]: Auto status: True
+[INFO] [1716084895.613097447] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084895.616157041] [minimal_subscriber]: Auto status: True
+[INFO] [1716084895.746905853] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084895.749459888] [minimal_subscriber]: Auto status: True
+[INFO] [1716084895.952115576] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084895.953739489] [minimal_subscriber]: Auto status: True
+[INFO] [1716084896.077264970] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084896.079396105] [minimal_subscriber]: Auto status: True
+[INFO] [1716084896.219246767] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084896.222759916] [minimal_subscriber]: Auto status: True
+[INFO] [1716084896.466814999] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084896.468472769] [minimal_subscriber]: Auto status: True
+[INFO] [1716084896.614836299] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084896.618432365] [minimal_subscriber]: Auto status: True
+[INFO] [1716084896.752699287] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084896.754435173] [minimal_subscriber]: Auto status: True
+[INFO] [1716084896.879152547] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084896.882491225] [minimal_subscriber]: Auto status: True
+[INFO] [1716084897.013597910] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084897.015302370] [minimal_subscriber]: Auto status: True
+[INFO] [1716084897.208115473] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084897.209636085] [minimal_subscriber]: Auto status: True
+[INFO] [1716084897.422588556] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084897.424488545] [minimal_subscriber]: Auto status: True
+[INFO] [1716084897.554422857] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084897.556457349] [minimal_subscriber]: Auto status: True
+[INFO] [1716084897.803795587] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084897.808022880] [minimal_subscriber]: Auto status: True
+[INFO] [1716084897.937813698] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084897.941569195] [minimal_subscriber]: Auto status: True
+[INFO] [1716084898.092445951] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084898.095953020] [minimal_subscriber]: Auto status: True
+[INFO] [1716084898.214515590] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084898.217465579] [minimal_subscriber]: Auto status: True
+[INFO] [1716084898.347511032] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084898.349199236] [minimal_subscriber]: Auto status: True
+[INFO] [1716084898.471776514] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084898.473528720] [minimal_subscriber]: Auto status: True
+[INFO] [1716084898.674372295] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084898.676613388] [minimal_subscriber]: Auto status: True
+[INFO] [1716084898.830441125] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084898.833329766] [minimal_subscriber]: Auto status: True
+[INFO] [1716084899.017572468] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084899.021889302] [minimal_subscriber]: Auto status: True
+[INFO] [1716084899.208924321] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084899.212284536] [minimal_subscriber]: Auto status: True
+[INFO] [1716084899.339113269] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084899.340838306] [minimal_subscriber]: Auto status: True
+[INFO] [1716084899.485307895] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084899.489775007] [minimal_subscriber]: Auto status: True
+[INFO] [1716084899.657602380] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084899.659902740] [minimal_subscriber]: Auto status: True
+[INFO] [1716084899.814064315] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084899.819485231] [minimal_subscriber]: Auto status: True
+[INFO] [1716084900.000009590] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084900.004673799] [minimal_subscriber]: Auto status: True
+[INFO] [1716084900.257916142] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084900.259718367] [minimal_subscriber]: Auto status: True
+[INFO] [1716084900.446768363] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084900.448451222] [minimal_subscriber]: Auto status: True
+[INFO] [1716084900.602754916] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084900.604473970] [minimal_subscriber]: Auto status: True
+[INFO] [1716084900.793032865] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084900.795017402] [minimal_subscriber]: Auto status: True
+[INFO] [1716084900.966731766] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084900.968324797] [minimal_subscriber]: Auto status: True
+[INFO] [1716084901.172906012] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084901.174424544] [minimal_subscriber]: Auto status: True
+[INFO] [1716084901.341927103] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084901.343549320] [minimal_subscriber]: Auto status: True
+[INFO] [1716084901.490306755] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084901.491870537] [minimal_subscriber]: Auto status: True
+[INFO] [1716084901.655329746] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084901.657014366] [minimal_subscriber]: Auto status: True
+[INFO] [1716084901.834093546] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084901.835734964] [minimal_subscriber]: Auto status: True
+[INFO] [1716084901.951618405] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084901.953102088] [minimal_subscriber]: Auto status: True
+[INFO] [1716084902.075095564] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084902.076930430] [minimal_subscriber]: Auto status: True
+[INFO] [1716084902.185236731] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084902.187342234] [minimal_subscriber]: Auto status: True
+[INFO] [1716084902.310191364] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084902.311773867] [minimal_subscriber]: Auto status: True
+[INFO] [1716084902.516747292] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084902.519868680] [minimal_subscriber]: Auto status: True
+[INFO] [1716084902.722890176] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084902.724476520] [minimal_subscriber]: Auto status: True
+[INFO] [1716084902.869847141] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084902.871949443] [minimal_subscriber]: Auto status: True
+[INFO] [1716084903.062643443] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084903.064511078] [minimal_subscriber]: Auto status: True
+[INFO] [1716084903.215140496] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084903.217169963] [minimal_subscriber]: Auto status: True
+[INFO] [1716084903.416598274] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084903.418235756] [minimal_subscriber]: Auto status: True
+[INFO] [1716084903.569021532] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084903.573142965] [minimal_subscriber]: Auto status: True
+[INFO] [1716084903.704832460] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084903.708133216] [minimal_subscriber]: Auto status: True
+[INFO] [1716084903.872123553] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084903.873768203] [minimal_subscriber]: Auto status: True
+[INFO] [1716084904.008690163] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084904.010221687] [minimal_subscriber]: Auto status: True
+[INFO] [1716084904.142096695] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084904.144329531] [minimal_subscriber]: Auto status: True
+[INFO] [1716084904.245023203] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084904.246667949] [minimal_subscriber]: Auto status: True
+[INFO] [1716084904.353291871] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084904.357459738] [minimal_subscriber]: Auto status: True
+[INFO] [1716084904.512536234] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084904.514753390] [minimal_subscriber]: Auto status: True
+[INFO] [1716084904.668271833] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084904.672447924] [minimal_subscriber]: Auto status: True
+[INFO] [1716084904.807369276] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084904.809432601] [minimal_subscriber]: Auto status: True
+[INFO] [1716084904.932839964] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084904.936411004] [minimal_subscriber]: Auto status: True
+[INFO] [1716084905.083889112] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084905.087079271] [minimal_subscriber]: Auto status: True
+[INFO] [1716084905.237755538] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084905.241074503] [minimal_subscriber]: Auto status: True
+[INFO] [1716084905.415515773] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084905.417833861] [minimal_subscriber]: Auto status: True
+[INFO] [1716084905.536834563] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084905.542008907] [minimal_subscriber]: Auto status: True
+[INFO] [1716084905.723776554] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084905.727674041] [minimal_subscriber]: Auto status: True
+[INFO] [1716084905.849198536] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084905.851412683] [minimal_subscriber]: Auto status: True
+[INFO] [1716084906.014420384] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084906.016255986] [minimal_subscriber]: Auto status: True
+[INFO] [1716084906.191130812] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084906.193407202] [minimal_subscriber]: Auto status: True
+[INFO] [1716084906.337976571] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084906.339594275] [minimal_subscriber]: Auto status: True
+[INFO] [1716084906.558417922] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084906.560016041] [minimal_subscriber]: Auto status: True
+[INFO] [1716084906.693266918] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084906.694836525] [minimal_subscriber]: Auto status: True
+[INFO] [1716084906.953182297] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084906.954687900] [minimal_subscriber]: Auto status: True
+[INFO] [1716084907.198813130] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084907.201002572] [minimal_subscriber]: Auto status: True
+[INFO] [1716084907.384189547] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084907.385705167] [minimal_subscriber]: Auto status: True
+[INFO] [1716084907.528289583] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084907.530692763] [minimal_subscriber]: Auto status: True
+[INFO] [1716084907.811563994] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084907.813515122] [minimal_subscriber]: Auto status: True
+[INFO] [1716084907.954470825] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084907.956321660] [minimal_subscriber]: Auto status: True
+[INFO] [1716084908.103062102] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084908.104935946] [minimal_subscriber]: Auto status: True
+[INFO] [1716084908.246407928] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084908.249194197] [minimal_subscriber]: Auto status: True
+[INFO] [1716084908.390341109] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084908.392518647] [minimal_subscriber]: Auto status: True
+[INFO] [1716084908.504767685] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084908.506599927] [minimal_subscriber]: Auto status: True
+[INFO] [1716084908.658472984] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084908.661237300] [minimal_subscriber]: Auto status: True
+[INFO] [1716084908.825077519] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084908.827529725] [minimal_subscriber]: Auto status: True
+[INFO] [1716084908.978614810] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084908.981189294] [minimal_subscriber]: Auto status: True
+[INFO] [1716084909.131449254] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084909.133058575] [minimal_subscriber]: Auto status: True
+[INFO] [1716084909.265738802] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084909.267362011] [minimal_subscriber]: Auto status: True
+[INFO] [1716084909.388047812] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084909.389614154] [minimal_subscriber]: Auto status: True
+[INFO] [1716084909.626508243] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084909.630640045] [minimal_subscriber]: Auto status: True
+[INFO] [1716084909.816302171] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084909.819585422] [minimal_subscriber]: Auto status: True
+[INFO] [1716084910.005492710] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084910.007408028] [minimal_subscriber]: Auto status: True
+[INFO] [1716084910.209014934] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084910.211366047] [minimal_subscriber]: Auto status: True
+[INFO] [1716084910.388822365] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084910.390632046] [minimal_subscriber]: Auto status: True
+[INFO] [1716084910.577998280] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084910.580092582] [minimal_subscriber]: Auto status: True
+[INFO] [1716084910.766857029] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084910.768930722] [minimal_subscriber]: Auto status: True
+[INFO] [1716084910.955425077] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084910.957492402] [minimal_subscriber]: Auto status: True
+[INFO] [1716084911.139610848] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084911.141812675] [minimal_subscriber]: Auto status: True
+[INFO] [1716084911.325184010] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084911.327054686] [minimal_subscriber]: Auto status: True
+[INFO] [1716084911.527368381] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084911.529240369] [minimal_subscriber]: Auto status: True
+[INFO] [1716084911.712661722] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084911.714687541] [minimal_subscriber]: Auto status: True
+[INFO] [1716084911.886797378] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084911.888462861] [minimal_subscriber]: Auto status: True
+[INFO] [1716084912.037483950] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084912.039185179] [minimal_subscriber]: Auto status: True
+[INFO] [1716084912.172514651] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084912.176258563] [minimal_subscriber]: Auto status: True
+[INFO] [1716084912.332199867] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084912.335479918] [minimal_subscriber]: Auto status: True
+[INFO] [1716084912.470179404] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084912.475057639] [minimal_subscriber]: Auto status: True
+[INFO] [1716084912.610688687] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084912.612780813] [minimal_subscriber]: Auto status: True
+[INFO] [1716084912.745454928] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084912.747702197] [minimal_subscriber]: Auto status: True
+[INFO] [1716084912.911583089] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084912.913821685] [minimal_subscriber]: Auto status: True
+[INFO] [1716084913.002138450] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084913.005708594] [minimal_subscriber]: Auto status: True
+[INFO] [1716084913.155135269] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084913.157397482] [minimal_subscriber]: Auto status: True
+[INFO] [1716084913.310509827] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084913.312380663] [minimal_subscriber]: Auto status: True
+[INFO] [1716084913.486729801] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084913.488561755] [minimal_subscriber]: Auto status: True
+[INFO] [1716084913.630748969] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084913.633405185] [minimal_subscriber]: Auto status: True
+[INFO] [1716084913.750373859] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084913.752257623] [minimal_subscriber]: Auto status: True
+[INFO] [1716084913.892619028] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084913.898060424] [minimal_subscriber]: Auto status: True
+[INFO] [1716084914.040401757] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084914.042918318] [minimal_subscriber]: Auto status: True
+[INFO] [1716084914.179014891] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084914.181233966] [minimal_subscriber]: Auto status: True
+[INFO] [1716084914.311013424] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084914.313529440] [minimal_subscriber]: Auto status: True
+[INFO] [1716084914.460802835] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084914.463774104] [minimal_subscriber]: Auto status: True
+[INFO] [1716084914.622174206] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084914.625437105] [minimal_subscriber]: Auto status: True
+[INFO] [1716084914.822117421] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084914.826151138] [minimal_subscriber]: Auto status: True
+[INFO] [1716084914.952779926] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084914.955886977] [minimal_subscriber]: Auto status: True
+[INFO] [1716084915.074868830] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084915.076598124] [minimal_subscriber]: Auto status: True
+[INFO] [1716084915.266441237] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084915.268246502] [minimal_subscriber]: Auto status: True
+[INFO] [1716084915.445447928] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084915.447510644] [minimal_subscriber]: Auto status: True
+[INFO] [1716084915.599712644] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084915.601220040] [minimal_subscriber]: Auto status: True
+[INFO] [1716084915.774662193] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084915.780028642] [minimal_subscriber]: Auto status: True
+[INFO] [1716084915.926742907] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084915.929287437] [minimal_subscriber]: Auto status: True
+[INFO] [1716084916.080510705] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084916.082556909] [minimal_subscriber]: Auto status: True
+[INFO] [1716084916.248349855] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084916.250378810] [minimal_subscriber]: Auto status: True
+[INFO] [1716084916.456278388] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084916.458439157] [minimal_subscriber]: Auto status: True
+[INFO] [1716084916.572538998] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084916.577831684] [minimal_subscriber]: Auto status: False
+[INFO] [1716084916.623747761] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084916.628724176] [minimal_subscriber]: Auto status: False
+[INFO] [1716084916.688620113] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084916.690249178] [minimal_subscriber]: Auto status: False
+[INFO] [1716084916.728340615] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084916.730026163] [minimal_subscriber]: Auto status: False
+[INFO] [1716084916.774670919] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084916.776943181] [minimal_subscriber]: Auto status: False
+[INFO] [1716084916.821930672] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084916.823751714] [minimal_subscriber]: Auto status: False
+[INFO] [1716084916.870340557] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084916.872217537] [minimal_subscriber]: Auto status: False
+[INFO] [1716084916.971738229] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084916.974365322] [minimal_subscriber]: Auto status: False
+[INFO] [1716084917.021669430] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084917.023573899] [minimal_subscriber]: Auto status: False
+[INFO] [1716084917.070634060] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084917.073010166] [minimal_subscriber]: Auto status: False
+[INFO] [1716084917.121259468] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084917.123038428] [minimal_subscriber]: Auto status: False
+[INFO] [1716084917.220744765] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084917.222534030] [minimal_subscriber]: Auto status: False
+[INFO] [1716084917.270753346] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084917.272888386] [minimal_subscriber]: Auto status: False
+[INFO] [1716084917.320828362] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084917.323359323] [minimal_subscriber]: Auto status: False
+[INFO] [1716084917.370073260] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084917.372355923] [minimal_subscriber]: Auto status: False
+[INFO] [1716084917.470589452] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084917.473596115] [minimal_subscriber]: Auto status: False
+[INFO] [1716084917.521217932] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084917.523258696] [minimal_subscriber]: Auto status: False
+[INFO] [1716084917.570101247] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084917.572844090] [minimal_subscriber]: Auto status: False
+[INFO] [1716084917.620613338] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084917.623995986] [minimal_subscriber]: Auto status: False
+[INFO] [1716084917.671945786] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084917.674284867] [minimal_subscriber]: Auto status: False
+[INFO] [1716084917.771582514] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084917.773539338] [minimal_subscriber]: Auto status: False
+[INFO] [1716084917.872243288] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084917.874373592] [minimal_subscriber]: Auto status: False
+[INFO] [1716084917.972119164] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084917.974213177] [minimal_subscriber]: Auto status: False
+[INFO] [1716084918.023016232] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084918.025181865] [minimal_subscriber]: Auto status: False
+[INFO] [1716084918.072172070] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084918.073941526] [minimal_subscriber]: Auto status: False
+[INFO] [1716084918.120664423] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084918.122274191] [minimal_subscriber]: Auto status: False
+[INFO] [1716084918.170792945] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716084918.172910736] [minimal_subscriber]: Auto status: False
+[INFO] [1716084918.271242734] [minimal_subscrib

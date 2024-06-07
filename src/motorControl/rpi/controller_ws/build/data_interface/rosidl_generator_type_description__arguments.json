@@ -1,0 +1,14 @@
+{
+  "package_name": "data_interface",
+  "output_dir": "/home/littleblue/IGVCDev/src/motorControl/rpi/controller_ws/build/data_interface/rosidl_generator_type_description/data_interface",
+  "idl_tuples": [
+    "/home/littleblue/IGVCDev/src/motorControl/rpi/controller_ws/build/data_interface/rosidl_adapter/data_interface:msg/Data.idl"
+  ],
+  "include_paths": [
+    "sensor_msgs:/opt/ros/iron/share/sensor_msgs",
+    "builtin_interfaces:/opt/ros/iron/share/builtin_interfaces",
+    "geometry_msgs:/opt/ros/iron/share/geometry_msgs",
+    "std_msgs:/opt/ros/iron/share/std_msgs",
+    "service_msgs:/opt/ros/iron/share/service_msgs"
+  ]
+}

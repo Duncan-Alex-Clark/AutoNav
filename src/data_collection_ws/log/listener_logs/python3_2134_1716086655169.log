@@ -1,0 +1,5 @@
+[DEBUG] [1716086655.912113676] [minimal_subscriber]: Listener object has been instantiated after 0.6465854644775391 seconds
+[INFO] [1716086665.021554593] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716086665.023886378] [minimal_subscriber]: Auto status: True
+[INFO] [1716086665.146743348] [minimal_subscriber]: listener_callback() executing
+[INFO] [1716086665.149111007] [minimal_subscriber]: Auto status: True

@@ -1,0 +1,25 @@
+[DEBUG] [1709854842.428729658] [minimal_subscriber]: Listener object has been instantiated after 0.14251255989074707 seconds
+[INFO] [1709854844.832316140] [minimal_subscriber]: listener_callback() executing
+[INFO] [1709854844.832684393] [minimal_subscriber]: Auto status: False
+[INFO] [1709854845.019472807] [minimal_subscriber]: listener_callback() executing
+[INFO] [1709854845.020179627] [minimal_subscriber]: Auto status: False
+[INFO] [1709854845.218600526] [minimal_subscriber]: listener_callback() executing
+[INFO] [1709854845.219270206] [minimal_subscriber]: Auto status: False
+[INFO] [1709854845.418623290] [minimal_subscriber]: listener_callback() executing
+[INFO] [1709854845.419297599] [minimal_subscriber]: Auto status: False
+[INFO] [1709854845.618744240] [minimal_subscriber]: listener_callback() executing
+[INFO] [1709854845.619409552] [minimal_subscriber]: Auto status: False
+[INFO] [1709854845.838387590] [minimal_subscriber]: listener_callback() executing
+[INFO] [1709854845.839059705] [minimal_subscriber]: Auto status: False
+[INFO] [1709854846.020918514] [minimal_subscriber]: listener_callback() executing
+[INFO] [1709854846.021596659] [minimal_subscriber]: Auto status: False
+[INFO] [1709854846.227927551] [minimal_subscriber]: listener_callback() executing
+[INFO] [1709854846.228594857] [minimal_subscriber]: Auto status: False
+[INFO] [1709854846.428850620] [minimal_subscriber]: listener_callback() executing
+[INFO] [1709854846.429518788] [minimal_subscriber]: Auto status: False
+[INFO] [1709854846.623746979] [minimal_subscriber]: listener_callback() executing
+[INFO] [1709854846.624420907] [minimal_subscriber]: Auto status: False
+[INFO] [1709854846.822875219] [minimal_subscriber]: listener_callback() executing
+[INFO] [1709854846.823548476] [minimal_subscriber]: Auto status: False
+[INFO] [1709854847.020796781] [minimal_subscriber]: listener_callback() executing
+[INFO] [1709854847.021465890] [minimal_subscriber]: Auto status: False

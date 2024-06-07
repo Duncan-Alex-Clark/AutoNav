@@ -1,0 +1,5 @@
+[DEBUG] [1717182948.585953411] [minimal_subscriber]: Listener object has been instantiated after 0.08585762977600098 seconds
+[INFO] [1717182950.046667856] [minimal_subscriber]: listener_callback() executing
+[INFO] [1717182950.046909120] [minimal_subscriber]: Auto status: False
+[INFO] [1717182950.047137407] [minimal_subscriber]: Data capture is active
+[INFO] [1717182950.047358041] [minimal_subscriber]: Number of datapoints collected: 0

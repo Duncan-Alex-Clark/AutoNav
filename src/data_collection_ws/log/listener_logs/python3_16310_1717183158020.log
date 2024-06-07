@@ -1,0 +1,94 @@
+[DEBUG] [1717183158.455307227] [minimal_subscriber]: Listener object has been instantiated after 0.4213240146636963 seconds
+[INFO] [1717183160.046649423] [minimal_subscriber]: listener_callback() executing
+[INFO] [1717183160.047972042] [minimal_subscriber]: Auto status: False
+[INFO] [1717183161.042858199] [minimal_subscriber]: listener_callback() executing
+[INFO] [1717183161.043173599] [minimal_subscriber]: Auto status: False
+[INFO] [1717183161.043470532] [minimal_subscriber]: Data capture is active
+[INFO] [1717183161.043782253] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1717183161.044107140] [minimal_subscriber]: Vehicle is turning
+[INFO] [1717183161.044423989] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1717183161.044741838] [minimal_subscriber]: Steering value: 1.0
+[DEBUG] [1717183161.045061986] [minimal_subscriber]: Throttle value: -0.7688302993774414
+[DEBUG] [1717183161.045406421] [minimal_subscriber]: Time to save gamepad data: 1.7642974853515625e-05 seconds
+[DEBUG] [1717183161.045734788] [minimal_subscriber]: Time to save cam0 data: 6.4373016357421875e-06 seconds
+[DEBUG] [1717183161.046057202] [minimal_subscriber]: Time to save cam1 data: 5.7220458984375e-06 seconds
+[DEBUG] [1717183161.046397913] [minimal_subscriber]: Time to save gps data: 9.298324584960938e-06 seconds
+[INFO] [1717183162.042833397] [minimal_subscriber]: listener_callback() executing
+[INFO] [1717183162.043134476] [minimal_subscriber]: Auto status: False
+[INFO] [1717183162.043418106] [minimal_subscriber]: Data capture is active
+[INFO] [1717183162.043726941] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1717183162.044031804] [minimal_subscriber]: -----Data not recording-----
+[DEBUG] [1717183162.044335916] [minimal_subscriber]: Steering value: -0.0
+[DEBUG] [1717183162.044640376] [minimal_subscriber]: Throttle value: -1.0
+[INFO] [1717183163.046306043] [minimal_subscriber]: listener_callback() executing
+[INFO] [1717183163.047618738] [minimal_subscriber]: Auto status: False
+[INFO] [1717183163.048869323] [minimal_subscriber]: Data capture is active
+[INFO] [1717183163.049703381] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1717183163.049915619] [minimal_subscriber]: Vehicle is turning
+[INFO] [1717183163.050126231] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1717183163.050344969] [minimal_subscriber]: Steering value: 0.8101427555084229
+[DEBUG] [1717183163.050558453] [minimal_subscriber]: Throttle value: -1.0
+[DEBUG] [1717183163.050783223] [minimal_subscriber]: Time to save gamepad data: 9.298324584960938e-06 seconds
+[DEBUG] [1717183163.051003439] [minimal_subscriber]: Time to save cam0 data: 4.76837158203125e-06 seconds
+[DEBUG] [1717183163.051223356] [minimal_subscriber]: Time to save cam1 data: 4.291534423828125e-06 seconds
+[DEBUG] [1717183163.051444379] [minimal_subscriber]: Time to save gps data: 6.198883056640625e-06 seconds
+[INFO] [1717183164.046886562] [minimal_subscriber]: listener_callback() executing
+[INFO] [1717183164.048205365] [minimal_subscriber]: Auto status: False
+[INFO] [1717183164.049471774] [minimal_subscriber]: Data capture is active
+[INFO] [1717183164.050726610] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1717183164.051965952] [minimal_subscriber]: Vehicle is turning
+[INFO] [1717183164.053188878] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1717183164.054449268] [minimal_subscriber]: Steering value: 0.826654851436615
+[DEBUG] [1717183164.055690421] [minimal_subscriber]: Throttle value: -1.0
+[DEBUG] [1717183164.056981939] [minimal_subscriber]: Time to save gamepad data: 4.410743713378906e-05 seconds
+[DEBUG] [1717183164.058278607] [minimal_subscriber]: Time to save cam0 data: 2.193450927734375e-05 seconds
+[DEBUG] [1717183164.059553950] [minimal_subscriber]: Time to save cam1 data: 2.09808349609375e-05 seconds
+[DEBUG] [1717183164.060828698] [minimal_subscriber]: Time to save gps data: 2.8848648071289062e-05 seconds
+[INFO] [1717183165.046302265] [minimal_subscriber]: listener_callback() executing
+[INFO] [1717183165.047615123] [minimal_subscriber]: Auto status: False
+[INFO] [1717183165.048889984] [minimal_subscriber]: Data capture is active
+[INFO] [1717183165.050140474] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1717183165.051408632] [minimal_subscriber]: Vehicle is turning
+[INFO] [1717183165.052644214] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1717183165.053868463] [minimal_subscriber]: Steering value: -1.0
+[DEBUG] [1717183165.055121454] [minimal_subscriber]: Throttle value: -1.0
+[DEBUG] [1717183165.056434054] [minimal_subscriber]: Time to save gamepad data: 4.5299530029296875e-05 seconds
+[DEBUG] [1717183165.057710304] [minimal_subscriber]: Time to save cam0 data: 2.288818359375e-05 seconds
+[DEBUG] [1717183165.059011782] [minimal_subscriber]: Time to save cam1 data: 2.2649765014648438e-05 seconds
+[DEBUG] [1717183165.060293894] [minimal_subscriber]: Time to save gps data: 2.9802322387695312e-05 seconds
+[INFO] [1717183166.046432052] [minimal_subscriber]: listener_callback() executing
+[INFO] [1717183166.047732149] [minimal_subscriber]: Auto status: False
+[INFO] [1717183166.048971319] [minimal_subscriber]: Data capture is active
+[INFO] [1717183166.050221682] [minimal_subscriber]: Number of datapoints collected: 0
+[INFO] [1717183166.051435493] [minimal_subscriber]: Vehicle is turning
+[INFO] [1717183166.052634519] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1717183166.053844960] [minimal_subscriber]: Steering value: 0.5459488034248352
+[DEBUG] [1717183166.055082230] [minimal_subscriber]: Throttle value: -1.0
+[DEBUG] [1717183166.056381948] [minimal_subscriber]: Time to save gamepad data: 4.458427429199219e-05 seconds
+[DEBUG] [1717183166.057634098] [minimal_subscriber]: Time to save cam0 data: 2.3126602172851562e-05 seconds
+[DEBUG] [1717183166.058910962] [minimal_subscriber]: Time to save cam1 data: 2.1457672119140625e-05 seconds
+[DEBUG] [1717183166.060173157] [minimal_subscriber]: Time to save gps data: 3.0279159545898438e-05 seconds
+[INFO] [1717183167.043051059] [minimal_subscriber]: listener_callback() executing
+[INFO] [1717183167.043449151] [minimal_subscriber]: Auto status: False
+[INFO] [1717183167.043836101] [minimal_subscriber]: Saving data to disk storage
+[DEBUG] [1717183167.044406778] [minimal_subscriber]: Lat: 42.66820526123047
+[DEBUG] [1717183167.044903514] [minimal_subscriber]: Time to store one index of data: 0.0006496906280517578 seconds
+[DEBUG] [1717183167.045405860] [minimal_subscriber]: Lat: 42.66820526123047
+[DEBUG] [1717183167.045872062] [minimal_subscriber]: Time to store one index of data: 0.0005619525909423828 seconds
+[DEBUG] [1717183167.046380135] [minimal_subscriber]: Lat: 42.66820526123047
+[DEBUG] [1717183167.046851978] [minimal_subscriber]: Time to store one index of data: 0.0005691051483154297 seconds
+[DEBUG] [1717183167.047342392] [minimal_subscriber]: Lat: 42.66820526123047
+[DEBUG] [1717183167.047619348] [minimal_subscriber]: Time to store one index of data: 0.0005316734313964844 seconds
+[DEBUG] [1717183167.047890913] [minimal_subscriber]: Lat: 42.66820526123047
+[DEBUG] [1717183167.048142200] [minimal_subscriber]: Time to store one index of data: 0.0003027915954589844 seconds
+[DEBUG] [1717183167.048359402] [minimal_subscriber]: Time to store all data: 0.00429987907409668 seconds
+[INFO] [1717183167.048570505] [minimal_subscriber]: Data capture is active
+[INFO] [1717183167.048779619] [minimal_subscriber]: Number of datapoints collected: 5
+[INFO] [1717183167.048988574] [minimal_subscriber]: Vehicle is turning
+[INFO] [1717183167.049195427] [minimal_subscriber]: -----Data recording-----
+[DEBUG] [1717183167.049405217] [minimal_subscriber]: Steering value: 0.5459488034248352
+[DEBUG] [1717183167.049614055] [minimal_subscriber]: Throttle value: -1.0
+[DEBUG] [1717183167.049832853] [minimal_subscriber]: Time to save gamepad data: 7.62939453125e-06 seconds
+[DEBUG] [1717183167.050048293] [minimal_subscriber]: Time to save cam0 data: 3.5762786865234375e-06 seconds
+[DEBUG] [1717183167.050302413] [minimal_subscriber]: Time to save cam1 data: 3.337860107421875e-06 seconds
+[DEBUG] [1717183167.050522971] [minimal_subscriber]: Time to save gps data: 5.7220458984375e-06 seconds
